@@ -1,0 +1,4943 @@
+[
+  {
+    "id": "inf_001",
+    "question_number": 1,
+    "question": "P.E. is a 56-year-old man who comes to the clinic with a 3-day history of fever, chills, pleuritic chest pain, malaise, and productive cough. In the clinic, his temperature is 102.1°F (38.9°C) (all other vital signs are normal). His chest radiograph reveals consolidation in the right lower lobe. His white blood cell count (WBC) is 14,400 cells/mm³, but all other laboratory values are normal. He is given a diagnosis of community-acquired pneumonia (CAP). He has not received any antibiotics in 5 years and has no chronic disease states. Which is the best empiric therapy for P.E.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Doxycycline 100 mg orally twice daily."
+      },
+      {
+        "letter": "B",
+        "text": "Cefuroxime axetil 250 mg orally twice daily."
+      },
+      {
+        "letter": "C",
+        "text": "Levofloxacin 750 mg orally daily."
+      },
+      {
+        "letter": "D",
+        "text": "Trimethoprim/sulfamethoxazole double strength orally twice daily."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The patient has CAP that does not require hospitalization (Pneumonia Severity Index [PSI] score is 56, class II, indicating low risk). Since he has no recent antibiotic use (within the past 3 months) and no comorbidities, he is at low risk of drug-resistant S. pneumoniae (DRSP). The drug of choice is either a macrolide or doxycycline. Cefuroxime is not recommended for CAP treatment, fluoroquinolones are only recommended if the patient has had recent antibiotics or comorbidities, and trimethoprim/sulfamethoxazole is not used for CAP.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_002",
+    "question_number": 2,
+    "question": "H.W. is a 38-year-old woman who presents with a fever, malaise, dry cough, nasal congestion, and severe headaches. Her symptoms began suddenly 3 days ago, and she has been in bed since then. She reports no other illness in her family, but several people have recently called in sick at work. It is influenza season. Which is best for H.W.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Azithromycin 500 mg, followed by 250 mg daily orally for 4 more days."
+      },
+      {
+        "letter": "B",
+        "text": "Amoxicillin clavulanic acid 75 mg orally twice daily for 5 days."
+      },
+      {
+        "letter": "C",
+        "text": "Oseltamivir 75 mg twice daily orally for 5 days."
+      },
+      {
+        "letter": "D",
+        "text": "Symptomatic treatment only."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The patient’s symptoms (high temperature, malaise, dry cough, nasal congestion, and severe headaches) are highly consistent with influenza. Antibacterial agents like Azithromycin (A) or Amoxicillin/clavulanic acid (B) would not affect recovery because the etiology is viral. Oseltamivir (C) should be initiated within 48 hours of symptom onset; since her symptoms began 3 days ago, it will not affect recovery. Therefore, symptomatic treatment is indicated.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_003",
+    "question_number": 3,
+    "question": "A study is designed to assess the risk of pneumococcal pneumonia in older adults 10 years or more after receiving their last pneumococcal vaccination, compared with older adults who have never received any pneumococcal vaccinations. Which study design is best?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Case series."
+      },
+      {
+        "letter": "B",
+        "text": "Case-control study."
+      },
+      {
+        "letter": "C",
+        "text": "Prospective cohort study."
+      },
+      {
+        "letter": "D",
+        "text": "Randomized controlled trial."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "A case-control study is the most appropriate, ethical, cost-effective, and timely study design for this question. A prospective cohort study or a randomized controlled trial would be too costly and time-consuming due to the low incidence of confirmed pneumococcal pneumonia and the required 10-year observation period. A randomized controlled trial would also be unethical because patients would have to be randomly assigned to no vaccination. A case series would not provide comparative data.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_004",
+    "question_number": 4,
+    "question": "A.B. is a 63-year-old woman who presents to the emergency department with left leg pain and erythema. The pain and erythema have worsened over the past 24 hours. The left leg is significantly swollen with a large area of erythema and large bullae extending from the thigh to the upper leg. There is crepitus within the soft tissue. A.B. is found to have rapidly progressing necrotizing fasciitis. A.B. has normal renal function and no known drug allergies. Which is the best empiric therapy for A.B.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin 15 mg/kg intravenously every 12 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Piperacillin/tazobactam 4.5 g intravenously every 8 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Vancomycin 15 mg/kg intravenously every 12 hours plus meropenem 1 g intravenously every 8 hours plus clindamycin 900 mg intravenously every 8 hours."
+      },
+      {
+        "letter": "D",
+        "text": "Linezolid 600 mg intravenously every 12 hours plus ceftriaxone 1 g intravenously every 24 hours plus azithromycin 500 mg intravenously daily."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Necrotizing fasciitis (NF) is often a mixed infection involving gram-positive, gram-negative, and anaerobic bacteria, and requires urgent surgical debridement plus broad-spectrum empiric antibiotics. The regimen must include activity against P. aeruginosa (often required in empiric NF therapy) and clindamycin or linezolid to suppress toxin and cytokine production by Streptococcus or Clostridium spp.. Option C (Vancomycin + Meropenem + Clindamycin) is the best empiric option as it covers MRSA (Vancomycin), broad Gram-negative/anaerobic organisms (Meropenem, a carbapenem), and includes Clindamycin for toxin suppression.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_005",
+    "question_number": 5,
+    "question": "N.R. is a 28-year-old woman who presents to the clinic with a 2-day history of dysuria, frequency, and urgency. She has no significant medical history, and the only drug she takes is an oral contraceptive. Which is the best empiric therapy for N.R.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nitrofurantoin extended release (ER) 100 mg orally twice daily for 3 days."
+      },
+      {
+        "letter": "B",
+        "text": "Ciprofloxacin 500 mg orally twice daily for 7 days."
+      },
+      {
+        "letter": "C",
+        "text": "Trimethoprim/sulfamethoxazole double strength orally twice daily for 3 days."
+      },
+      {
+        "letter": "D",
+        "text": "Cephalexin 500 mg orally four times daily for 3 days."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The patient has uncomplicated cystitis. Trimethoprim/sulfamethoxazole (TMP/SMX) double strength twice daily orally for 3 days is the recommended therapeutic regimen for uncomplicated cystitis. Nitrofurantoin is first-line, but the recommended duration is 5 days, not 3 days. Fluoroquinolones (like ciprofloxacin) should be avoided as first-line therapy when other options are available. Beta-lactams are less effective and data is limited on their 3-day use.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_006",
+    "question_number": 6,
+    "question": "B.Y. is an 85-year-old woman who is bedridden and lives in a nursing home. She is chronically catheterized, and her urinary catheter was last changed 3 weeks ago. Today, her urine is cloudy, and a urinalysis reveals many bacteria. B.Y. is not noticing any symptoms. A urine culture is obtained. Which option is best for B.Y.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "No antibiotic therapy because she is chronically catheterized and has no symptoms."
+      },
+      {
+        "letter": "B",
+        "text": "No antibiotic therapy, but the catheter should be changed."
+      },
+      {
+        "letter": "C",
+        "text": "Ciprofloxacin 500 mg orally twice daily for 7 days and change the catheter."
+      },
+      {
+        "letter": "D",
+        "text": "Ciprofloxacin 500 mg orally twice daily for 14–21 days without a change in catheter."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "For an asymptomatic patient who is chronically catheterized and exhibits bacteriuria, no antibiotic therapy is indicated. Nearly all patients with long-term indwelling catheters will be bacteriuric. Treating asymptomatic bacteriuria only increases the risk of acquiring resistant organisms.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_007",
+    "question_number": 7,
+    "question": "V.E. is a 44-year-old man who presents to the emergency department with a warm, erythematous, and painful right lower extremity. There is no raised border at the edge of the infection. Three days ago, he scratched his leg on a barbed wire fence on his property (no puncture wound associated with the fence). His temperature has been as high as 101.8°F (38°C) with chills. Doppler studies of his lower extremity are negative. Blood cultures are negative. Which is the best empiric therapy for V.E.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefazolin 1 g intravenously every 8 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Penicillin G 2 million units intravenously every 4 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Piperacillin/tazobactam 3.375 g intravenously every 6 hours."
+      },
+      {
+        "letter": "D",
+        "text": "Doxycycline 100 mg orally twice daily."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The patient appears to have acute cellulitis, characterized by non-elevated, poorly defined margins. Cellulitis is usually caused by Streptococcus or Staphylococcus. Cefazolin (a first-generation cephalosporin) is the drug of choice. Penicillin G (B) is the treatment of choice for erysipelas, but the lack of a raised border suggests cellulitis. Piperacillin/tazobactam (C) is too broad spectrum for acute cellulitis. Oral antibiotics like doxycycline (D) are inappropriate when the patient is febrile with extensive cellulitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_008",
+    "question_number": 8,
+    "question": "R.K. is a 36-year-old woman who presents to the emergency department with a severe headache and neck stiffness. Her temperature is 37.5°C. After a negative computed tomographic scan of the head, a lumbar puncture reveals the following: glucose 54 mg/dL (peripheral, 104 mg/dL), protein 88 mg/dL, and WBC 220 cells/mm³ (100% lymphocytes). The Gram stain reveals no organisms. Which option is best for R.K.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "This is aseptic meningitis, and no antibiotics are necessary."
+      },
+      {
+        "letter": "B",
+        "text": "Administer ceftriaxone 2 g intravenously every 12 hours until the cerebrospinal fluid (CSF) cultures are negative for bacteria."
+      },
+      {
+        "letter": "C",
+        "text": "Administer ceftriaxone 2 g intravenously every 12 hours and vancomycin 15 mg/kg intravenously every 12 hours until the CSF cultures are negative for bacteria."
+      },
+      {
+        "letter": "D",
+        "text": "Administer acyclovir 500 mg intravenously every 8 hours until the CSF culture results are negative for bacteria."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "In adults (2–50 years) presenting with symptoms suggestive of bacterial meningitis (headache, neck stiffness, slightly elevated temperature, although the CSF findings, particularly the predominance of lymphocytes and relatively high CSF glucose compared to typical bacterial meningitis, might suggest aseptic/viral meningitis), antibiotics must be given until CSF cultures are definitively negative. Empiric therapy for bacterial meningitis in adults should include ceftriaxone in combination with vancomycin. Vancomycin is necessary for activity against resistant S. pneumoniae.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_009",
+    "question_number": 9,
+    "question": "L.G. is a 49-year-old woman with a history of mitral valve prolapse. She presents to her physician's office with malaise and a low-grade fever. Her physician notes that her murmur is louder than usual and orders blood cultures and an echocardiogram. A large vegetation is observed on L.G.’s mitral valve, and her blood cultures are growing Enterococcus faecalis (susceptible to all antibiotics). Which is the best therapy for L.G.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin G plus gentamicin for 2 weeks."
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin plus ceftriaxone for 2 weeks."
+      },
+      {
+        "letter": "C",
+        "text": "Ampicillin plus ceftriaxone for 6 weeks."
+      },
+      {
+        "letter": "D",
+        "text": "Cefazolin plus gentamicin for 4–6 weeks."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Enterococcal endocarditis should be treated for 4–6 weeks. The 2-week treatment regimen is indicated only for streptococcal endocarditis. Since the organism is susceptible to all antibiotics, Ampicillin plus Ceftriaxone for 6 weeks is a recommended regimen for penicillin-susceptible enterococcal endocarditis. Cefazolin has no activity against Enterococcus.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_010",
+    "question_number": 10,
+    "question": "N.L. is a 27-year-old woman with no significant medical history. She reports to the emergency department with fever and severe right lower quadrant abdominal pain. The pain had been dull for the past few days, but it suddenly became severe during the past 8 hours. Her temperature is 103.5°F (39.7°C), and she has rebound tenderness on abdominal examination. She is taken to surgery immediately, where a perforated appendix is diagnosed and repaired. Which is the best follow-up antibiotic regimen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin 1000 mg intravenously every 12 hours plus metronidazole 500 mg intravenously every 8 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Cefazolin 1 g intravenously every 8 hours plus ciprofloxacin 400 mg intravenously every 12 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Ceftriaxone 1 g intravenously every 24 hours plus metronidazole 500 mg intravenously every 8 hours."
+      },
+      {
+        "letter": "D",
+        "text": "No antibiotics needed after surgical repair of a perforated appendix."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A perforated appendix requires antibiotics after surgery for an intra-abdominal infection. The combination of Vancomycin and Metronidazole (A) lacks adequate activity against aerobic, Gram-negative organisms (e.g., E. coli). The combination of Cefazolin and Ciprofloxacin (B) lacks adequate activity against anaerobic organisms (e.g., B. fragilis group). Ceftriaxone plus Metronidazole (C) is a good choice for intra-abdominal infections, although it has limited activity against Enterococcus.",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_011",
+    "question_number": 11,
+    "question": "O.R. is a 73-year-old man who presents to the emergency department with a 3-day history of fever, chills, frequency, urgency, and perineal pain. A urinalysis reveals many bacteria. A rectal examination reveals a swollen, tender prostate. He is given a diagnosis of acute bacterial prostatitis. Which is the best regimen for this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amoxicillin clavulanate 75 orally twice daily for 14 days."
+      },
+      {
+        "letter": "B",
+        "text": "Trimethoprim/sulfamethoxazole double strength orally twice daily for 7 days."
+      },
+      {
+        "letter": "C",
+        "text": "Cefprozil 500 mg orally twice daily for 21 days."
+      },
+      {
+        "letter": "D",
+        "text": "Ciprofloxacin 500 mg orally twice daily for 28 days."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Beta-lactam antibiotics (A, C) are generally not recommended as first-line agents for acute bacterial prostatitis. Although TMP/SMX is appropriate, the 7-day duration (B) is too short; treatment duration should be 4 weeks (28 days). Fluoroquinolones (Ciprofloxacin) are an appropriate antibiotic class for prostatitis, and the 28-day duration is also appropriate.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_012",
+    "question_number": 12,
+    "question": "J.M. is a 72-year-old woman with a history of atrial fibrillation, hypertension, a right total hip replacement 8 months earlier, and Crohn disease. She has no drug allergies. She presents to the hospital with increasing pain in her prosthetic hip over the past month. There is concern about hip osteomyelitis. Bone cultures are growing methicillin-sensitive Staphylococcus aureus. J.M. has normal renal function and no known drug allergies. Which is the best antibiotic regimen for this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin 1000 mg intravenously every 12 hours plus rifampin 300 mg orally twice daily for 2 weeks."
+      },
+      {
+        "letter": "B",
+        "text": "Cefazolin 2 g intravenously every 8 hours plus rifampin 300 mg orally twice daily for 6 weeks followed by long-term oral antibiotics."
+      },
+      {
+        "letter": "C",
+        "text": "Nafcillin 1 g intravenously every 4 hours for 6 weeks."
+      },
+      {
+        "letter": "D",
+        "text": "Daptomycin 6 mg/kg intravenously daily for 6 weeks followed by long-term oral antibiotics."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Since the infection is caused by Methicillin-Sensitive Staphylococcus aureus (MSSA), using Vancomycin (A) or Daptomycin (D) is unnecessary and poses a risk of toxicity. For prosthetic joint infections caused by Staphylococcus that retain the prosthesis, the treatment involves a pathogen-specific intravenous therapy (Nafcillin or Cefazolin) combined with rifampin for 2–6 weeks, followed by rifampin plus a fluoroquinolone for 3 to 6 months. Option C is incorrect because rifampin must be combined with the primary antibiotic for prosthetic joint infections. Cefazolin plus Rifampin for 6 weeks followed by long-term oral antibiotics (B) is the best choice.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_013",
+    "question_number": 13,
+    "question": "B.K. is a 58-year-old woman (height 66 inches, weight 82 kg) who is scheduled to undergo a total knee replacement tomorrow. She has no significant medical history and no drug allergies. Which is the best surgical prophylaxis regimen for this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefazolin 2 g within 1 hour of the incision and no doses postoperatively."
+      },
+      {
+        "letter": "B",
+        "text": "Cefazolin 2 g within 4 hours of the incision and three doses every 8 hours postoperatively."
+      },
+      {
+        "letter": "C",
+        "text": "Cefazolin 1 g within 1 hour of the incision and three doses every 8 hours postoperatively."
+      },
+      {
+        "letter": "D",
+        "text": "Cefazolin 1 g within 4 hours of the incision and no doses postoperatively."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "For orthopedic procedures involving prosthetic materials, surgical prophylaxis is necessary. The preferred agent is Cefazolin at a dosage of at least 2 g (or 3 g for patients weighing 120 kg or more). The antibiotic must be administered within 1 hour of the incision. Administration beyond surgical closure is generally unnecessary, especially for shorter orthopedic procedures.",
+    "category": "Infectious Disease",
+    "subcategory": "Osteomyelitis and Bone Infections"
+  },
+  {
+    "id": "inf_014",
+    "question_number": 14,
+    "question": "R.L. is a 68-year-old man who presents to the emergency department with coughing and shortness of breath... If R.L. were hospitalized, which would be the best empiric therapy for him?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ampicillin/sulbactam 3 g intravenously every 6 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Piperacillin/tazobactam 4.5 g intravenously every 6 hours plus gentamicin 180 mg intravenously every 12 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Ceftriaxone 2 g intravenously every 24 hours plus azithromycin 500 mg intravenously every 24 hours."
+      },
+      {
+        "letter": "D",
+        "text": "Doxycycline 100 mg intravenously every 12 hours."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "For hospitalized patients with non-severe CAP (R.L. has risk factors like CHF, requiring inpatient management), empiric treatment involves a respiratory fluoroquinolone or a beta-lactam plus a macrolide (or doxycycline). Ceftriaxone plus azithromycin is the best initial choice because it provides excellent activity against typical organisms (S. pneumoniae, H. influenzae) and atypical organisms (due to azithromycin). Ampicillin/sulbactam (A) and Piperacillin/tazobactam + Gentamicin (B) lack coverage for atypical organisms. Doxycycline monotherapy (D) is not recommended for hospitalized patients.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_015",
+    "question_number": 15,
+    "question": "B.P. is a 66-year-old woman who underwent a two-vessel coronary artery bypass graft 8 days ago and has been on a ventilator... Which is the best empiric therapy for B.P.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ceftriaxone 2 g intravenously every 24 hours plus gentamicin 7 mg/kg intravenously every 24 hours plus linezolid 600 mg intravenously every 12 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Piperacillin/tazobactam 4.5 g intravenously every 6 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Levofloxacin 750 mg intravenously every 24 hours plus linezolid 600 mg intravenously every 12 hours."
+      },
+      {
+        "letter": "D",
+        "text": "Cefepime 2 g intravenously every 8 hours plus tobramycin 7 mg/kg intravenously every 24 hours plus vancomycin 15 mg/kg intravenously every 12 hours."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "B.P. has Ventilator-Associated Pneumonia (VAP) since it arose more than 48 hours after intubation. Because she has been hospitalized for 5 days or more (8 days), she is at increased risk for Multi-Drug Resistant (MDR) organisms, specifically P. aeruginosa and MRSA. Empiric therapy for HAP/VAP should cover S. aureus (MSSA), P. aeruginosa, and other Gram-negative organisms. Due to her risk factors for MDR organisms, she needs two antibiotics with activity against P. aeruginosa and one agent for MRSA. Option D (Cefepime + Tobramycin + Vancomycin) provides two antipseudomonal agents (Cefepime and Tobramycin) and coverage for MRSA (Vancomycin). Ceftriaxone (A) is incorrect because it lacks P. aeruginosa activity.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_016",
+    "question_number": 16,
+    "question": "S.C. is a 46-year-old woman who presents to the clinic with purulent nasal discharge, nasal and facial congestion, headaches, fever, and dental pain. Her symptoms began about 10 days ago, improved after about 4 days, and then worsened again a few days later. Which is the best empiric therapy for S.C.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefpodoxime proxetil 200 mg orally twice daily."
+      },
+      {
+        "letter": "B",
+        "text": "Clindamycin 300 mg orally four times daily."
+      },
+      {
+        "letter": "C",
+        "text": "Amoxicillin/clavulanate 875 mg/125 mg orally twice daily."
+      },
+      {
+        "letter": "D",
+        "text": "No antibiotic therapy needed."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The patient’s symptoms (lasting >10 days, or having improved and then worsened—the “double-sickening” pattern) suggest acute bacterial sinusitis. Amoxicillin/clavulanate is considered a first-line agent for bacterial sinusitis. No antibiotic therapy (D) is incorrect because the pattern suggests bacterial infection. Cefpodoxime or Clindamycin alone are not recommended for treatment.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_017",
+    "question_number": 17,
+    "question": "G.N. is a 62-year-old woman who presents to the emergency department with a 3-day history of urinary frequency and dysuria... Which is the best empiric therapy for G.N.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trimethoprim/sulfamethoxazole double strength orally twice daily for 7 days. Monitor INR carefully."
+      },
+      {
+        "letter": "B",
+        "text": "Ciprofloxacin 400 mg intravenously twice daily and then 500 mg orally twice daily for a total of 7 days. Monitor INR carefully."
+      },
+      {
+        "letter": "C",
+        "text": "Gentamicin 140 mg intravenously every 24 hours for 3 days."
+      },
+      {
+        "letter": "D",
+        "text": "Tigecycline 100 mg once, then 50 mg intravenously every 12 hours and then doxycycline 100 mg orally twice daily for a total of 10 days."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "G.N. presents with symptoms and signs (fever, flank pain, abnormal vital signs, positive casts on urinalysis) consistent with complicated pyelonephritis. TMP/SMX (A) is inappropriate because the duration is too short (should be 14 days), and it has a significant drug interaction with warfarin. Ciprofloxacin for a total of 7 days is an appropriate regimen and duration for complicated pyelonephritis. Gentamicin for 3 days (C) is too short. Tigecycline/Doxycycline (D) is not recommended for complicated pyelonephritis.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_018",
+    "question_number": 18,
+    "question": "G.N. returns to the clinic in 6 months with no urinary symptoms, but her chief concern is now an ulcer on her right foot... Which is the best empiric therapy for G.N.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nafcillin 2 g intravenously every 6 hours for 6–12 weeks."
+      },
+      {
+        "letter": "B",
+        "text": "Tobramycin 120 mg intravenously every 12 hours plus levofloxacin 750 mg intravenously every 24 hours for 1–2 weeks."
+      },
+      {
+        "letter": "C",
+        "text": "Piperacillin/tazobactam 3.375 g intravenously every 6 hours for 1–2 weeks."
+      },
+      {
+        "letter": "D",
+        "text": "Below-the-knee amputation followed by ceftriaxone 1 g intravenously every 24 hours for 1 week."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "G.N. has a diabetic foot infection, which are generally polymicrobial and can involve Gram-positive, Gram-negative, and anaerobic organisms. Given the macerated ulcer and history of water exposure (walking barefoot on the beach, suggesting potential P. aeruginosa risk), a regimen active against P. aeruginosa is likely necessary. Beta-lactamase inhibitor combinations, such as Piperacillin/tazobactam, are good agents because they cover the usual mix of organisms. Nafcillin (A) misses Gram-negative organisms and anaerobes. Tobramycin/Levofloxacin (B) misses anaerobes, and Tobramycin is risky in diabetic patients due to nephrotoxicity.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_019",
+    "question_number": 19,
+    "question": "W.A. is a 55-year-old man who is admitted with weight loss, malaise, and severe back pain... A computed tomography guided bone biopsy reveals gram-positive cocci in clusters. Which is the best therapy for W.A.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin 15 mg/kg intravenously every 12 hours for 6 weeks."
+      },
+      {
+        "letter": "B",
+        "text": "Nafcillin 2 g intravenously every 6 hours for 2 weeks."
+      },
+      {
+        "letter": "C",
+        "text": "Levofloxacin 750 mg orally every 24 hours for 6 weeks."
+      },
+      {
+        "letter": "D",
+        "text": "Ampicillin/sulbactam 3 g intravenously every 6 hours for 2 weeks."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The patient has findings consistent with vertebral osteomyelitis (bone destruction of lumbar vertebrae L1 and L2). The bone biopsy shows Gram-positive cocci in clusters, likely S. aureus. Since sensitivities are unknown, Vancomycin is the best empiric choice to cover potential MRSA. Treatment duration for acute osteomyelitis is typically 3–6 weeks (average 6 weeks). Options B and D are too short (2 weeks). Oral Levofloxacin (C) is unlikely to achieve adequate bone concentrations to eradicate S. aureus.",
+    "category": "Infectious Disease",
+    "subcategory": "Osteomyelitis and Bone Infections"
+  },
+  {
+    "id": "inf_020",
+    "question_number": 20,
+    "question": "D.M. is a 21-year-old university student who presents to the emergency department with the worst headache of his life... Which is the best empiric therapy for D.M.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin G 4 million units intravenously every 4 hours."
+      },
+      {
+        "letter": "B",
+        "text": "Ceftriaxone 2 g intravenously every 12 hours."
+      },
+      {
+        "letter": "C",
+        "text": "Ceftriaxone 2 g intravenously every 12 hours plus dexamethasone 10 mg intravenously every 6 hours."
+      },
+      {
+        "letter": "D",
+        "text": "Ceftriaxone 2 g intravenously every 12 hours plus vancomycin 1000 mg intravenously every 8 hours plus dexamethasone 10 mg intravenously every 6 hours."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "D.M. presents with classic bacterial meningitis signs (fever, severe headache, neck stiffness, highly elevated WBC in CSF, low CSF glucose ratio to peripheral glucose). Empiric therapy for bacterial meningitis in children and adults (2–50 years) is Ceftriaxone plus Vancomycin. Vancomycin is crucial for activity against highly penicillin-resistant S. pneumoniae. Dexamethasone should also be added adjunctive therapy because it improves outcomes and decreases mortality in adults with pneumococcal meningitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_021",
+    "question_number": 21,
+    "question": "D.M.’s CSF cultures grew N. meningitidis. Which is the best recommendation for meningitis prophylaxis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "The health care providers in close contact with D.M. should receive rifampin 600 mg orally every 12 hours for four doses."
+      },
+      {
+        "letter": "B",
+        "text": "Everyone in D.M.’s dormitory and in all of his classes should receive rifampin 600 mg orally every 24 hours for 4 days."
+      },
+      {
+        "letter": "C",
+        "text": "Everyone in the emergency department at the time of D.M.’s presentation should receive the meningococcal conjugate vaccine."
+      },
+      {
+        "letter": "D",
+        "text": "Everyone in the emergency department at the time of D.M.’s presentation should receive rifampin 600 mg orally every 12 hours for four doses."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Prophylaxis for N. meningitidis is recommended only for close contacts (household, day care) and those exposed to the index case’s oral secretions. Health care providers who were in close contact (e.g., during intubation or resuscitation) should receive prophylaxis. The correct regimen for adults is Rifampin 600 mg every 12 hours for four doses.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_022",
+    "question_number": 22,
+    "question": "T.S. is a 48-year-old man who presents to the emergency department with fever, chills... A transesophageal echocardiogram reveals vegetation on the mitral valve. Which is the best therapeutic regimen for T.S.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nafcillin therapy for 7–10 days."
+      },
+      {
+        "letter": "B",
+        "text": "Nafcillin plus rifampin plus gentamicin therapy for 6 weeks or longer."
+      },
+      {
+        "letter": "C",
+        "text": "Nafcillin plus gentamicin therapy for 2 weeks of both antibiotics."
+      },
+      {
+        "letter": "D",
+        "text": "Nafcillin therapy for 6 weeks."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "T.S. has native valve endocarditis caused by MSSA (S. aureus confirmed by culture). The recommended treatment for MSSA native valve endocarditis is Nafcillin (or Oxacillin or Cefazolin) for 6 weeks. Options A and C are incorrect because the duration (7–10 days or 2 weeks) is too short for S. aureus endocarditis. Option B is incorrect because Rifampin and Gentamicin are only necessary for prosthetic valve endocarditis, not native valve endocarditis.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_023",
+    "question_number": 23,
+    "question": "Six months after treatment of his endocarditis, T.S. is visiting his dentist for a tooth extraction. Which antibiotic is best for prophylaxis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tooth extractions do not warrant endocarditis prophylaxis."
+      },
+      {
+        "letter": "B",
+        "text": "Administer amoxicillin 2 g 1 hour before the extraction."
+      },
+      {
+        "letter": "C",
+        "text": "Administer amoxicillin 3 g 1 hour before the extraction and 1.5 g every 6 hours for four doses after the extraction."
+      },
+      {
+        "letter": "D",
+        "text": "T.S. is not at increased risk of endocarditis and does not need prophylactic antibiotics."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The patient is at increased risk of endocarditis due to his history of the disease. Dental procedures involving perforation of the oral mucosa (like a tooth extraction) warrant prophylaxis for those at risk. The current recommended dose for standard general prophylaxis is Amoxicillin 2 g 1 hour before the procedure.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_024",
+    "question_number": 24,
+    "question": "R.K. is a 72-year-old man who presents to the emergency department with a 2-day history of redness and swelling of his upper right extremity... Two weeks after completing therapy for his cellulitis, R.K. has watery diarrhea. R.K. goes to the emergency department, and his C. difficile toxin is positive. His WBC is 24,500 cells/mm³, albumin is 2.8 g/dL, and SCr is 1.74 mg/dL (normally around 0.80 mg/dL). Which is the best therapeutic regimen for R.K.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Metronidazole 500 mg orally three times daily for 7 days."
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin 125 mg orally four times daily for 10 days."
+      },
+      {
+        "letter": "C",
+        "text": "Fidaxomicin 200 mg orally twice daily for 14 days."
+      },
+      {
+        "letter": "D",
+        "text": "Rifaximin 400 mg orally twice daily for 7 days."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "R.K. is experiencing a severe C. difficile infection (CDI), indicated by his high WBC (24,500 cells/mm³ > 15 x 10³ cells/mm³) and elevated SCr (1.74 mg/dL > 1.5 mg/dL). For severe CDI, the preferred first-line treatment options are Vancomycin 125 mg orally four times daily for 10 days or Fidaxomicin 200 mg orally twice daily for 10 days. Option C is incorrect because the duration (14 days) is too long. Metronidazole (A) is not optimal for severe infection. Vancomycin 125 mg orally four times daily for 10 days (B) is the best choice among the options.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_025",
+    "question_number": 25,
+    "question": "You are a pharmacist who works closely with the surgery department... Which is the best practice for optimizing surgical prophylaxis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Antibiotics should be redosed for extended surgical procedures; redose if the surgery lasts longer than 4 hours or involves considerable blood loss."
+      },
+      {
+        "letter": "B",
+        "text": "All patients should be given antibiotics for 24 hours after the procedure; this will optimize prophylaxis."
+      },
+      {
+        "letter": "C",
+        "text": "Preoperative antibiotics can be given up to 4 hours before the incision; this will make giving the antibiotics logistically easier."
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin is the antibiotic of choice for surgical wound prophylaxis because of its long half-life and activity against MRSA."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Redosing antibiotics is critical for surgical prophylaxis, especially if the surgery lasts longer than 4 hours (or more than two drug half-lives) or involves considerable blood loss. Giving antibiotics for 24 hours post-procedure (B) is generally unnecessary (except sometimes for cardiac procedures) and increases the risk of resistance. Antibiotics should be administered within 60 minutes before the incision (or 60–120 minutes for Vancomycin), not up to 4 hours before. Vancomycin (D) should not be used routinely for surgical prophylaxis unless the patient has a life-threatening allergy to beta-lactam antibiotics.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_026",
+    "question_number": 26,
+    "question": "K.E. is a 29-year-old asymptomatic patient who is HIV positive. She recently found out she is pregnant and is estimated to be early in her first trimester. Her most recent CD4 count was 170 cells/mm³, and her viral load was 100,000 copies/mL... Which is the best therapy for K.E. to prevent HIV transmission to her child?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "No drug therapy is needed; the risks to the fetus outweigh any benefits."
+      },
+      {
+        "letter": "B",
+        "text": "Administer zidovudine 300 mg twice daily orally throughout the pregnancy, followed by zidovudine during labor and subsequently to the infant for 6 weeks."
+      },
+      {
+        "letter": "C",
+        "text": "No drug therapy is needed now, but administer a single dose of nevirapine at the onset of labor."
+      },
+      {
+        "letter": "D",
+        "text": "Administer a potent combination antiretroviral therapy (ART) regimen."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "A potent combination ART regimen should be initiated in all HIV-infected patients, including pregnant women, regardless of the CD4 count. Combination ART regimens are preferred over single-drug therapy (B) because they significantly decrease the risk of transmission. Since she has a high viral load and low CD4 count, combination ART is necessary.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_027",
+    "question_number": 27,
+    "question": "R.E. is a 33-year-old man who recently tested HIV positive. He is initiated on tenofovir alafenamide, emtricitabine, and dolutegravir. Which is the best counseling for R.E.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Watch for trouble sleeping because dolutegravir can cause insomnia."
+      },
+      {
+        "letter": "B",
+        "text": "If you think you are having a drug-related adverse effect, cut the dose of all of your drugs in half."
+      },
+      {
+        "letter": "C",
+        "text": "Talk to your pharmacist about drug interactions because both dolutegravir and tenofovir inhibit cytochrome P450 (CYP) 3A4."
+      },
+      {
+        "letter": "D",
+        "text": "Tenofovir and emtricitabine cause additive peripheral neuropathy, so let your pharmacist know if you have tingling in your extremities."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Dolutegravir is associated with insomnia and CNS symptoms. Instructing the patient to cut the dose in half (B) is incorrect because antiretroviral drugs should always be used at the recommended dose. Neither dolutegravir nor tenofovir inhibit CYP3A4. Peripheral neuropathy (D) is not associated with tenofovir or emtricitabine.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_028",
+    "question_number": 28,
+    "question": "P.P., a 43-year-old man who is HIV positive, presents to the clinic with a headache that has gradually worsened during the past 2 weeks... He is given a diagnosis of cryptococcal meningitis and successfully treated. Which is the best follow-up therapy for P.P.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "No maintenance treatment is necessary."
+      },
+      {
+        "letter": "B",
+        "text": "Administer fluconazole 200 mg daily orally."
+      },
+      {
+        "letter": "C",
+        "text": "Administer amphotericin B 1 mg/kg weekly intravenously."
+      },
+      {
+        "letter": "D",
+        "text": "He is protected as long as he is also receiving Pneumocystis jiroveci pneumonia (PJP) prophylaxis."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Patients with cryptococcal meningitis require long-term secondary prevention/maintenance therapy. The preferred maintenance therapy is Fluconazole 200 mg daily for at least 1 year. Fluconazole is preferred over weekly intravenous Amphotericin B due to its ease of administration and lower toxicity. PJP prophylaxis agents have no activity against Cryptococcus.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_029",
+    "question_number": 29,
+    "question": "A study compares the incidence of active tuberculosis (TB) infection in patients receiving isoniazid versus rifampin for latent TB infection. After completing therapy (6 months for isoniazid and 4 months for rifampin), 0.3% in the isoniazid group and 0.8% in the rifampin group progress to active disease. Which best represents how many patients would need to be treated with isoniazid over rifampin to prevent one progression to active disease?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5."
+      },
+      {
+        "letter": "B",
+        "text": "50."
+      },
+      {
+        "letter": "C",
+        "text": "200."
+      },
+      {
+        "letter": "D",
+        "text": "2000."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The Number Needed to Treat (NNT) is calculated as 1 / Absolute Risk Reduction (ARR). ARR = Incidence in Rifampin group (0.008) - Incidence in Isoniazid group (0.003) = 0.005. NNT = 1 / 0.005 = 200.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_030",
+    "question_number": 30,
+    "question": "G.T. is a 34-year-old woman positive for HIV who is brought to the emergency department by her boyfriend... A computed tomographic scan shows two large ring-enhancing lesions in her brain indicating toxoplasmic encephalitis. Her most recent CD4 count was 85 cells/mm³... Which is the best therapy for G.T.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Atovaquone for 4–6 weeks."
+      },
+      {
+        "letter": "B",
+        "text": "High-dose trimethoprim/sulfamethoxazole plus clindamycin for 6 weeks."
+      },
+      {
+        "letter": "C",
+        "text": "Pyrimethamine plus sulfadiazine for 6 weeks."
+      },
+      {
+        "letter": "D",
+        "text": "Pyrimethamine plus clindamycin and leucovorin for 6 weeks."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The patient has toxoplasmic encephalitis. Pyrimethamine plus sulfadiazine is the preferred therapy. However, leucovorin (folinic acid) must always be added to pyrimethamine to reduce its bone marrow–suppressive effects. Since Pyrimethamine + Sulfadiazine + Leucovorin is not an option, the alternative regimen of Pyrimethamine plus Clindamycin plus Leucovorin for 6 weeks is the correct choice, especially since the patient already takes dapsone for PJP prophylaxis, suggesting a potential sulfa sensitivity.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_031",
+    "question_number": 31,
+    "question": "H.Y., a 49-year-old man with acute myeloid leukemia, is given a diagnosis of tuberculosis (TB) and initiated on empiric therapy with rifampin, isoniazid, ethambutol, and pyrazinamide. Three months into his TB therapy, he is hospitalized and given a diagnosis of aspergillosis; treatment is needed in addition to his TB treatment. Which is the best antifungal to use in H.Y.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole."
+      },
+      {
+        "letter": "B",
+        "text": "Voriconazole."
+      },
+      {
+        "letter": "C",
+        "text": "Isavuconazonium."
+      },
+      {
+        "letter": "D",
+        "text": "Amphotericin lipid formulation."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The patient needs treatment for Aspergillosis while simultaneously receiving Rifampin for TB. Fluconazole (A) has no activity against Aspergillus. Voriconazole (B) and Isavuconazonium (C) both have significant drug interactions with Rifampin, which is a strong enzyme inducer, leading to significantly lower antifungal concentrations. Amphotericin lipid formulation (D) is the best option because it is active against Aspergillus and lacks drug interactions with the TB medications.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_032",
+    "question_number": 32,
+    "question": "P.I. is a 35-year-old woman who presents to the clinic with a 2-week history of night sweats, fatigue, weight loss, and a persistent cough... Two days later, her TST is measured at 20-mm induration, and her sputum sample is positive for acid-fast bacilli. P.I., who has no pertinent medical history, has never been outside the United States. Which regimen is the best therapy for P.I.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid for 6 months."
+      },
+      {
+        "letter": "B",
+        "text": "Isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months, followed by isoniazid and rifampin for 4 more months."
+      },
+      {
+        "letter": "C",
+        "text": "Isoniazid and rifampin for 6 months."
+      },
+      {
+        "letter": "D",
+        "text": "Levofloxacin, isoniazid, and rifampin for both TB and other bacterial causes of pneumonia."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "P.I. has active tuberculosis (TB), confirmed by symptoms, positive TST, and positive acid-fast bacilli sputum sample. The recommended therapy for drug-susceptible active TB in patients without HIV is an intensive phase of four drugs: Isoniazid, Rifampin, Pyrazinamide, and Ethambutol for 2 months (daily or five times weekly), followed by a continuation phase of Isoniazid and Rifampin for 4 more months. Therapy with fewer than three antibiotics in the intensive phase (A, C) is inappropriate. Fluoroquinolones (D) are not recommended as first-line monotherapy.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_033",
+    "question_number": 33,
+    "question": "A prospective, double-blind study compared the effects of two therapies... Which is the best statistical test to use to compare end points such as the mean change in viral load or mean change in CD4 counts?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Analysis of variance."
+      },
+      {
+        "letter": "B",
+        "text": "Chi-square test."
+      },
+      {
+        "letter": "C",
+        "text": "Student t-test."
+      },
+      {
+        "letter": "D",
+        "text": "Wilcoxon rank sum test."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The end points (mean change in viral load, mean change in CD4 counts) are continuous data and, given the large sample size (350 patients), are assumed to be normally distributed. Therefore, a parametric test is indicated. The Student t-test is the best parametric test for comparing two groups. Analysis of variance (A) compares more than two groups, and the Chi-square test (B) compares categorical data.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_034",
+    "question_number": 34,
+    "question": "J.Z. is a 42-year-old HIV-positive man with a diagnosis of cytomegalovirus (CMV) retinitis 9 months ago... Today, his CD4 count is 312 cells/mm³. Which is the best recommendation for valganciclovir therapy in J.Z.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Discontinue valganciclovir because his CD4 count has been above 100 cells/mm³ for 3 months."
+      },
+      {
+        "letter": "B",
+        "text": "Continue valganciclovir until the CD4 count has been above 100 cells/mm³ for 1 year."
+      },
+      {
+        "letter": "C",
+        "text": "Finish 1 year of therapy with valganciclovir and then discontinue the medication if his CD4 count is still above 100 cells/mm³."
+      },
+      {
+        "letter": "D",
+        "text": "Continue valganciclovir indefinitely."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Secondary prophylaxis (chronic maintenance therapy) for CMV retinitis may be discontinued if the CD4 count is greater than 100 cells/mm³ for 3–6 months in response to ART, and the CMV lesions are inactive. Since his CD4 count (175, 312) has been above 100 cells/mm³ for at least 3 months (3 months ago to today), Valganciclovir can be discontinued (in consultation with an ophthalmologist).",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_035",
+    "question_number": 35,
+    "question": "K.T. is a 55-year-old woman who is hospitalized with a presumed Candida infection. She currently receives simvastatin, diazepam, lisinopril, dofetilide, and metoprolol. Which antifungal would be best to use empirically with the other medications K.T. is receiving?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Liposomal amphotericin"
+      },
+      {
+        "letter": "B",
+        "text": "B. Fluconazole."
+      },
+      {
+        "letter": "C",
+        "text": "Micafungin."
+      },
+      {
+        "letter": "D",
+        "text": "Olorofim."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Empiric treatment for Candidemia should start with an echinocandin (like Micafungin). Fluconazole should only be used if the organism is known or suspected to be sensitive to fluconazole. Micafungin is preferred empirically because echinocandins typically have fewer drug interactions compared to azoles, which is important given her polypharmacy (including dofetilide and statins, which are susceptible to CYP interactions). Liposomal amphotericin B (A) is generally reserved for resistance or intolerance.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_036",
+    "question_number": 36,
+    "question": "T.E. is a 51-year-old man who has been HIV positive for 23 years... He is allergic to penicillins and sulfonamide antibiotics. Which regimen is the best PJP prophylaxis for T.E.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trimethoprim/sulfamethoxazole one double-strength tablet by mouth daily."
+      },
+      {
+        "letter": "B",
+        "text": "Dapsone 100 mg by mouth weekly."
+      },
+      {
+        "letter": "C",
+        "text": "Atovaquone 1500 mg by mouth daily."
+      },
+      {
+        "letter": "D",
+        "text": "Pentamidine 300 mg by nebulization once monthly."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "T.E. needs primary prophylaxis for PJP because his CD4 count is 112 cells/mm³ (< 200 cells/mm³). Due to his sulfonamide allergy, TMP/SMX (A) is contraindicated. Dapsone (B) is an alternative, but the dose listed (weekly) is incorrect; when used alone, Dapsone must be dosed daily. Pentamidine by nebulization (D) is difficult to administer. Atovaquone 1500 mg once daily is considered the preferred alternative prophylactic regimen based on safety, tolerability, and efficacy.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_037",
+    "question_number": 37,
+    "question": "O.D. is a 38-year-old HIV positive man originally from Puerto Rico... A bronchoscopy is performed and the cultures are positive for Histoplasma capsulatum. What is the best treatment for O.D.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amphotericin B lipid formulation for 1–2 weeks followed by itraconazole 200 mg three times daily for 3 days followed by 200 mg twice daily for 12 weeks total."
+      },
+      {
+        "letter": "B",
+        "text": "Micafungin 100 mg IV daily for 1–2 weeks followed by fluconazole 400 mg daily for 12 weeks total."
+      },
+      {
+        "letter": "C",
+        "text": "Voriconazole 200 mg twice daily for 6 weeks total."
+      },
+      {
+        "letter": "D",
+        "text": "Isavuconazole 200 mg every 8 hours for 2 days followed by 200 mg daily for 6 weeks total."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Given that O.D. is hospitalized, worsening, and HIV-positive, this is considered a moderate to severe case of Histoplasmosis. The recommended treatment is the induction phase using a Lipid formulation of Amphotericin B (3–5 mg/kg/day) for 1–2 weeks, followed by the consolidation phase using Itraconazole to complete 12 weeks of therapy. Echinocandins (B) are generally ineffective against Histoplasma. Voriconazole (C) and Isavuconazole (D) are not currently recommended due to limited clinical data.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_038",
+    "question_number": 38,
+    "question": "R.V. is a 35-year-old man who presents to the emergency department with a persistent cough... He is not HIV-infected. Which one of the following would be the best empiric therapy for R.V.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rifampin, isoniazid, pyrazinamide, and ethambutol 3 times weekly for 2 months followed by rifampin and isoniazid 2 times weekly for 4 months."
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin, isoniazid, pyrazinamide, and ethambutol daily for 2 months followed by rifampin and isoniazid 5 times weekly for 4 months."
+      },
+      {
+        "letter": "C",
+        "text": "Rifampin, isoniazid, pyrazinamide, and ethambutol daily for 2 months followed by rifampin, isoniazid, and ethambutol 3 times weekly for 4 months."
+      },
+      {
+        "letter": "D",
+        "text": "Rifampin, isoniazid, pyrazinamide, and ethambutol 5 times weekly for 2 months followed by rifampin, isoniazid, and pyrazinamide 2 times weekly for 4 months."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "This patient has active TB confirmed by symptoms, positive IGRA, and positive acid-fast bacillus sputum. The standard recommended regimen for active TB in patients without HIV involves an intensive phase of four drugs for 2 months, followed by a continuation phase of two drugs (Rifampin and Isoniazid) for 4 months. The ideal schedule is daily or 5 times weekly for both phases. Option A (3 times weekly/2 times weekly) is optional but not the recommended therapy. Option B reflects the daily/5 times weekly schedule. C and D include three drugs in the continuation phase, which is incorrect",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_039",
+    "question_number": 39,
+    "question": "A 68-year-old man with a history of COPD and diabetes is diagnosed with community-acquired pneumonia (CAP) in an outpatient setting. He has not taken antibiotics recently. According to the guidelines, which treatment would be appropriate for him?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Doxycycline monotherapy"
+      },
+      {
+        "letter": "B",
+        "text": "A respiratory fluoroquinolone"
+      },
+      {
+        "letter": "C",
+        "text": "Intravenous ceftriaxone plus a macrolide"
+      },
+      {
+        "letter": "D",
+        "text": "Amoxicillin monotherapy"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Patients with COPD and diabetes have comorbidities; respiratory fluoroquinolone is recommended per IDSA/ATS CAP guidelines for outpatients with comorbidities.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_040",
+    "question_number": 40,
+    "question": "A patient in the intensive care unit for 10 days develops ventilator-associated pneumonia (VAP). The hospital unit has a 15% incidence of MRSA. What is the most appropriate empiric antibiotic strategy for this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "A standard CAP regimen such as ceftriaxone plus azithromycin"
+      },
+      {
+        "letter": "B",
+        "text": "A single broad-spectrum agent such as piperacillin/tazobactam"
+      },
+      {
+        "letter": "C",
+        "text": "Two agents with anti-pseudomonal activity plus an agent with MRSA activity"
+      },
+      {
+        "letter": "D",
+        "text": "An anti-pseudomonal β-lactam plus an aminoglycoside"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "VAP with 15% MRSA incidence (>10%) requires two anti-pseudomonal agents plus MRSA coverage per IDSA/SHEA HAP/VAP guidelines.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_041",
+    "question_number": 41,
+    "question": "A 45-year-old man presents with symptoms of influenza that began suddenly 60 hours ago. He is otherwise healthy with no chronic conditions. What is the most appropriate course of action?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prescribe baloxavir as a single dose"
+      },
+      {
+        "letter": "B",
+        "text": "Prescribe azithromycin to prevent secondary bacterial pneumonia"
+      },
+      {
+        "letter": "C",
+        "text": "Symptomatic treatment only"
+      },
+      {
+        "letter": "D",
+        "text": "Prescribe oseltamivir for 5 days"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Neuraminidase inhibitors must be started within 48 hours of symptom onset to be effective; at 60 hours, only symptomatic treatment is appropriate.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_042",
+    "question_number": 42,
+    "question": "In which of the following patient populations is it recommended to screen for and treat asymptomatic bacteriuria?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Patients with poorly controlled diabetes"
+      },
+      {
+        "letter": "B",
+        "text": "Pregnant women"
+      },
+      {
+        "letter": "C",
+        "text": "Elderly patients in nursing homes with indwelling catheters"
+      },
+      {
+        "letter": "D",
+        "text": "Non-pregnant, premenopausal women"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Pregnant women are the recommended population for screening and treatment of asymptomatic bacteriuria per IDSA guidelines.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_043",
+    "question_number": 43,
+    "question": "A patient is diagnosed with necrotizing fasciitis. In addition to broad-spectrum coverage against Gram-positive, Gram-negative, and anaerobic bacteria, which adjunctive antibiotic is recommended empirically to suppress toxin and cytokine production if group A streptococci are suspected?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefepime"
+      },
+      {
+        "letter": "B",
+        "text": "Clindamycin"
+      },
+      {
+        "letter": "C",
+        "text": "Metronidazole"
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Clindamycin (or linezolid) is added empirically to suppress toxin and cytokine production when Group A Streptococcus is suspected in necrotizing fasciitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_044",
+    "question_number": 44,
+    "question": "A patient with a prosthetic hip infection caused by methicillin-sensitive *Staphylococcus aureus* (MSSA) undergoes debridement with retention of the prosthesis. What is the recommended antibiotic strategy following the initial intravenous therapy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Indefinite oral suppression with nafcillin"
+      },
+      {
+        "letter": "B",
+        "text": "A prolonged course of rifampin combined with an oral fluoroquinolone"
+      },
+      {
+        "letter": "C",
+        "text": "A 2-week course of intravenous vancomycin plus rifampin"
+      },
+      {
+        "letter": "D",
+        "text": "Intravenous nafcillin for a total of 6 weeks only"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "For MSSA prosthetic joint infection with retained prosthesis, rifampin plus an oral fluoroquinolone for 3-6 months is recommended following initial IV therapy.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_045",
+    "question_number": 45,
+    "question": "What is the recommended empiric antibiotic regimen for suspected bacterial meningitis in a 65-year-old patient with no other significant medical history?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin + meropenem"
+      },
+      {
+        "letter": "B",
+        "text": "Ceftriaxone + vancomycin + ampicillin"
+      },
+      {
+        "letter": "C",
+        "text": "Ceftriaxone + vancomycin"
+      },
+      {
+        "letter": "D",
+        "text": "Ampicillin + gentamicin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ceftriaxone + vancomycin + ampicillin covers S. pneumoniae, MRSA, and Listeria, which is required for patients ≥50 years with suspected bacterial meningitis.",
+    "category": "Infectious Disease",
+    "subcategory": "CNS Infections"
+  },
+  {
+    "id": "inf_046",
+    "question_number": 46,
+    "question": "A patient with a history of previous bacterial endocarditis is scheduled for a dental procedure that involves perforation of the oral mucosa. Which prophylactic antibiotic regimen is recommended?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amoxicillin 2 g taken 1 hour before the procedure"
+      },
+      {
+        "letter": "B",
+        "text": "Clindamycin 600 mg taken 1 hour before the procedure"
+      },
+      {
+        "letter": "C",
+        "text": "Amoxicillin 2 g taken immediately after the procedure"
+      },
+      {
+        "letter": "D",
+        "text": "A 5-day course of cephalexin starting the day of the procedure"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Amoxicillin 2 g orally 30-60 minutes before the dental procedure is the standard prophylaxis regimen for patients with previous endocarditis.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_047",
+    "question_number": 47,
+    "question": "A patient is diagnosed with a severe, initial episode of *Clostridioides difficile* infection, indicated by a white blood cell count of 18,000 cells/mm3 and a serum creatinine of 1.6 mg/dL. Which is the recommended first-line treatment?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oral vancomycin 125 mg four times daily for 10 days"
+      },
+      {
+        "letter": "B",
+        "text": "Intravenous metronidazole 500 mg every 8 hours"
+      },
+      {
+        "letter": "C",
+        "text": "Rifaximin 400 mg three times daily for 20 days"
+      },
+      {
+        "letter": "D",
+        "text": "Oral metronidazole 500 mg three times daily for 10 days"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Oral vancomycin 125 mg four times daily for 10 days is recommended for severe CDI (WBC ≥15,000 or SCr >1.5 mg/dL).",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_048",
+    "question_number": 48,
+    "question": "According to the principles of surgical prophylaxis, when is the optimal time to administer a preoperative dose of cefazolin?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "On call to the operating room"
+      },
+      {
+        "letter": "B",
+        "text": "Immediately after the surgical incision is closed"
+      },
+      {
+        "letter": "C",
+        "text": "Within 60 minutes before the surgical incision"
+      },
+      {
+        "letter": "D",
+        "text": "2 to 4 hours before the surgical incision"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Cefazolin should be administered within 60 minutes before the surgical incision to ensure adequate tissue levels at the time of incision.",
+    "category": "Infectious Disease",
+    "subcategory": "Surgical Prophylaxis"
+  },
+  {
+    "id": "inf_049",
+    "question_number": 49,
+    "question": "According to current guidelines, when should antiretroviral therapy (ART) be initiated for a newly diagnosed, asymptomatic HIV-positive patient with a CD4 count of 600 cells/mm3?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "When the patient develops an AIDS-defining illness"
+      },
+      {
+        "letter": "B",
+        "text": "When the CD4 count falls below 500 cells/mm3"
+      },
+      {
+        "letter": "C",
+        "text": "Immediately, as treatment is recommended for all infected patients regardless of CD4 count"
+      },
+      {
+        "letter": "D",
+        "text": "When the CD4 count falls below 350 cells/mm3"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "ART is recommended immediately for all HIV-infected patients regardless of CD4 count per current DHHS guidelines.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_050",
+    "question_number": 50,
+    "question": "A patient with HIV has a CD4 count of 150 cells/mm3. What is the primary opportunistic infection for which prophylaxis is indicated at this stage?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cytomegalovirus (CMV) retinitis"
+      },
+      {
+        "letter": "B",
+        "text": "*Mycobacterium avium* complex (MAC)"
+      },
+      {
+        "letter": "C",
+        "text": "Toxoplasmosis"
+      },
+      {
+        "letter": "D",
+        "text": "*Pneumocystis jiroveci* pneumonia (PJP)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "At CD4 150 cells/mm³ (below 200), primary prophylaxis for PJP (Pneumocystis jiroveci pneumonia) is indicated.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_051",
+    "question_number": 51,
+    "question": "A patient without HIV is diagnosed with drug-susceptible active pulmonary tuberculosis. What is the standard duration of the continuation phase of treatment, following a 2-month intensive phase?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7 months"
+      },
+      {
+        "letter": "B",
+        "text": "2 months"
+      },
+      {
+        "letter": "C",
+        "text": "12 months"
+      },
+      {
+        "letter": "D",
+        "text": "4 months"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The continuation phase of standard TB treatment is 4 months (isoniazid + rifampin), following the 2-month intensive phase.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_052",
+    "question_number": 52,
+    "question": "A neutropenic patient is diagnosed with invasive aspergillosis. Which antifungal agent is considered the preferred first-line therapy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Voriconazole"
+      },
+      {
+        "letter": "C",
+        "text": "An echinocandin (e.g., caspofungin)"
+      },
+      {
+        "letter": "D",
+        "text": "Amphotericin B lipid formulation"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Voriconazole is the preferred first-line therapy for invasive aspergillosis per IDSA guidelines.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_053",
+    "question_number": 53,
+    "question": "A patient is diagnosed with onychomycosis of the toenails. Which oral therapy and duration are most appropriate for treatment?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Terbinafine for 6 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "Terbinafine for 12 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "Griseofulvin for 12 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "Itraconazole for 4 weeks"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Terbinafine for 12 weeks is the preferred treatment for toenail onychomycosis — more effective and better tolerated than alternatives.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_054",
+    "question_number": 54,
+    "question": "Hospital-Acquired Pneumonia (HAP) is formally defined as pneumonia occurring at least how long after a patient’s admission to the hospital?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "24 hours"
+      },
+      {
+        "letter": "B",
+        "text": "48 hours"
+      },
+      {
+        "letter": "C",
+        "text": "72 hours"
+      },
+      {
+        "letter": "D",
+        "text": "96 hours"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "HAP is defined as pneumonia in a nonventilated patient that occurs 48 hours or more after admission and was not incubating at the time of admission.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_055",
+    "question_number": 55,
+    "question": "Which finding is considered a Major Criterion in the IDSA/ATS criteria for defining Severe Community-Acquired Pneumonia (CAP)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Confusion/disorientation"
+      },
+      {
+        "letter": "B",
+        "text": "Leukopenia (WBC < 4.0 x 10³ cells/mm³)"
+      },
+      {
+        "letter": "C",
+        "text": "Respiratory rate > 30 breaths/min"
+      },
+      {
+        "letter": "D",
+        "text": "Respiratory failure requiring mechanical ventilation"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The major criteria for severe CAP include septic shock with the need for vasopressors or respiratory failure requiring mechanical ventilation. Confusion, leukopenia, and respiratory rate > 30 breaths/min are considered minor criteria.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_056",
+    "question_number": 56,
+    "question": "For Influenza treatment to resolve symptoms 1 to 1.5 days sooner, Neuraminidase inhibitors (e.g., Oseltamivir) must be initiated within how many hours of symptom onset?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "12 hours"
+      },
+      {
+        "letter": "B",
+        "text": "36 hours"
+      },
+      {
+        "letter": "C",
+        "text": "48 hours"
+      },
+      {
+        "letter": "D",
+        "text": "72 hours"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Neuraminidase inhibitors must be initiated within 48 hours of symptom onset for treatment benefits.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_057",
+    "question_number": 57,
+    "question": "Which first-line agent for uncomplicated cystitis is specifically noted as being ineffective if the patient's creatinine clearance (CrCl) is less than 30 mL/minute/1.73 m²?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trimethoprim/sulfamethoxazole"
+      },
+      {
+        "letter": "B",
+        "text": "Fosfomycin tromethamine"
+      },
+      {
+        "letter": "C",
+        "text": "Cephalexin"
+      },
+      {
+        "letter": "D",
+        "text": "Nitrofurantoin monohydrate/macrocrystals"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Nitrofurantoin (monohydrate/macrocrystals) is ineffective in patients with a CrCl less than 30 mL/minute/1.73 m².",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_058",
+    "question_number": 58,
+    "question": "What is the minimum recommended duration of antibiotic therapy for acute bacterial prostatitis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7 days"
+      },
+      {
+        "letter": "B",
+        "text": "14 days"
+      },
+      {
+        "letter": "C",
+        "text": "2–4 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "6 months"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The therapy duration for acute bacterial prostatitis is typically 2–4 weeks, and may be extended for an additional 2 weeks if the patient remains symptomatic.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_059",
+    "question_number": 59,
+    "question": "Which physical finding is characteristic of Erysipelas, helping to differentiate it from cellulitis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Involvement primarily of the deep dermis and subcutaneous fat"
+      },
+      {
+        "letter": "B",
+        "text": "Edge of infection is elevated and sharply demarcated from the surrounding tissue"
+      },
+      {
+        "letter": "C",
+        "text": "Warmth, pain, and non-elevated, poorly defined margins"
+      },
+      {
+        "letter": "D",
+        "text": "Usually caused by a mixed infection with Gram-positive and Gram-negative organisms"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Erysipelas involves the superficial dermis and the edge of the infection is elevated and sharply demarcated from the surrounding tissue. Cellulitis involves the deep dermis/subcutaneous fat and has non-elevated, poorly defined margins.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_060",
+    "question_number": 60,
+    "question": "If Group A Streptococcus or Clostridium spp. are suspected in a patient with necrotizing fasciitis, which agent should be included in the empiric regimen specifically to suppress toxin and cytokine production?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Meropenem"
+      },
+      {
+        "letter": "B",
+        "text": "Ceftriaxone"
+      },
+      {
+        "letter": "C",
+        "text": "Clindamycin or linezolid"
+      },
+      {
+        "letter": "D",
+        "text": "Piperacillin/tazobactam"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "If S. pyogenes (Group A streptococci) or Clostridium spp. are suspected, clindamycin or linezolid should be included in the empiric regimen to suppress toxin and cytokine production.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_061",
+    "question_number": 61,
+    "question": "What is the recommended strategy for antibiotic treatment following the initial intravenous therapy phase for a prosthetic joint infection caused by S. aureus where the prosthesis is retained?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Intravenous vancomycin monotherapy for 6 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "Oral Nafcillin or Dicloxacillin monotherapy for 1 month"
+      },
+      {
+        "letter": "C",
+        "text": "Rifampin combined with a fluoroquinolone for 3 to 6 months"
+      },
+      {
+        "letter": "D",
+        "text": "Oral clindamycin plus doxycycline for 12 weeks"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "For retained staphylococcal prosthetic joint infections, the pathogen-specific intravenous therapy plus rifampin for 2–6 weeks is followed by rifampin plus ciprofloxacin or levofloxacin for 3 months (hip, elbow, shoulder, ankle) or 6 months (retained knee prosthesis).",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_062",
+    "question_number": 62,
+    "question": "Which criterion is explicitly required for transitioning a patient with osteomyelitis from parenteral (IV) to oral antibiotic therapy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Patient must have been stable for at least 7 days on IV therapy"
+      },
+      {
+        "letter": "B",
+        "text": "C-reactive protein must be less than 2.0 mg/dL"
+      },
+      {
+        "letter": "C",
+        "text": "The oral antibiotic chosen must be a macrolide"
+      },
+      {
+        "letter": "D",
+        "text": "The patient must have completed all necessary surgical debridement"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Criteria for effective oral therapy for osteomyelitis include a highly bioavailable antibiotic, documented adherence, adequate surgical debridement, resolving clinical course, and a C-reactive protein less than 2.0 mg/dL.",
+    "category": "Infectious Disease",
+    "subcategory": "Osteomyelitis and Bone Infections"
+  },
+  {
+    "id": "inf_063",
+    "question_number": 63,
+    "question": "What unique antibiotic must be included in the empiric meningitis regimen for older adults (age 50 years and older) to ensure coverage for Listeria monocytogenes?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Daptomycin"
+      },
+      {
+        "letter": "B",
+        "text": "Ampicillin"
+      },
+      {
+        "letter": "C",
+        "text": "Cefepime"
+      },
+      {
+        "letter": "D",
+        "text": "Meropenem"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "For older adults (50 years and older), the empiric regimen is Ceftriaxone plus Vancomycin plus Ampicillin, where Ampicillin covers Listeria monocytogenes.",
+    "category": "Infectious Disease",
+    "subcategory": "CNS Infections"
+  },
+  {
+    "id": "inf_064",
+    "question_number": 64,
+    "question": "Adjunctive Dexamethasone therapy is recommended for adult patients with meningitis, particularly to improve outcomes if the meningitis is caused by which pathogen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "N. meningitidis"
+      },
+      {
+        "letter": "B",
+        "text": "L. monocytogenes"
+      },
+      {
+        "letter": "C",
+        "text": "S. pneumoniae"
+      },
+      {
+        "letter": "D",
+        "text": "H. influenzae"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Dexamethasone is recommended because it resulted in significantly improved outcomes, including decreased mortality, in adults receiving it for S. pneumoniae meningitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_065",
+    "question_number": 65,
+    "question": "What is the recommended minimum duration of Nafcillin or Cefazolin therapy for native valve endocarditis caused by methicillin-sensitive Staphylococcus aureus (MSSA)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "4 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "6 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "Indefinite suppression"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "For native valve endocarditis caused by MSSA, the recommended length of therapy using Oxacillin, Nafcillin, or Cefazolin is 6 weeks.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_066",
+    "question_number": 66,
+    "question": "What is the standard antibiotic regimen for endocarditis prophylaxis in an adult patient with a prosthetic heart valve who is undergoing a dental procedure involving gingival tissue?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Clindamycin 300 mg orally 1 hour before procedure"
+      },
+      {
+        "letter": "B",
+        "text": "Cephalexin 500 mg orally 1 hour before procedure"
+      },
+      {
+        "letter": "C",
+        "text": "Amoxicillin 2 g orally 1 hour before procedure"
+      },
+      {
+        "letter": "D",
+        "text": "Ampicillin 2 g intravenously 1 hour before procedure"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Patients with prosthetic valves require prophylaxis for dental procedures. The Standard general prophylaxis regimen is Amoxicillin 2 g, 1 hour before the procedure.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_067",
+    "question_number": 67,
+    "question": "What is the recommended duration of antibiotic therapy for secondary peritonitis following adequate source control (e.g., surgical repair)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Less than 24 hours"
+      },
+      {
+        "letter": "B",
+        "text": "7 days"
+      },
+      {
+        "letter": "C",
+        "text": "4 days"
+      },
+      {
+        "letter": "D",
+        "text": "14 days"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The recommended therapy duration for secondary peritonitis is 4 days following source control.",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_068",
+    "question_number": 68,
+    "question": "Which finding meets the criteria for defining a severe initial episode of Clostridioides difficile infection (CDI)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "WBC less than 15 x 10³ cells/mm³"
+      },
+      {
+        "letter": "B",
+        "text": "Serum Creatinine (SCr) greater than 1.5 mg/dL"
+      },
+      {
+        "letter": "C",
+        "text": "Hypotension or shock (defining fulminant infection)"
+      },
+      {
+        "letter": "D",
+        "text": "Albumin 2.8 g/dL (not listed as specific severity measure)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Severe CDI is defined by leukocytosis with WBC 15×103 cells/mm³ or greater or SCr greater than 1.5 mg/dL.",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_069",
+    "question_number": 69,
+    "question": "For a surgical procedure using Cefazolin for prophylaxis, when must an additional intraoperative dose be administered?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "If the procedure lasts longer than 1 hour"
+      },
+      {
+        "letter": "B",
+        "text": "If the initial dose was given more than 2 hours before incision"
+      },
+      {
+        "letter": "C",
+        "text": "If the patient weighs more than 120 kg"
+      },
+      {
+        "letter": "D",
+        "text": "If the surgery lasts longer than 4 hours or involves considerable blood loss"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The antibiotic must be redosed if the surgery lasts longer than 4 hours (or more than two drug half-lives) or involves considerable blood loss.",
+    "category": "Infectious Disease",
+    "subcategory": "Surgical Prophylaxis"
+  },
+  {
+    "id": "inf_070",
+    "question_number": 70,
+    "question": "What is the goal of treatment (viral suppression) for an HIV-infected patient receiving combination ART?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "CD4 T-cell count greater than 200 cells/mm³"
+      },
+      {
+        "letter": "B",
+        "text": "HIV RNA below 200 copies/mL"
+      },
+      {
+        "letter": "C",
+        "text": "HIV RNA below the level of detection of the assay (typically < 20 copies/mL to 75 copies/mL)"
+      },
+      {
+        "letter": "D",
+        "text": "A 50% decrease in HIV RNA from baseline"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Viral suppression, which is the goal of treatment, is defined as HIV RNA below the level of detection of the assay (HIV RNA less than 20 copies/mL to 75 copies/mL).",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_071",
+    "question_number": 71,
+    "question": "Which ART component is associated with a benign increase in serum creatinine due to the inhibition of creatinine secretion, but is not generally considered nephrotoxic?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tenofovir disoproxil fumarate (TDF)"
+      },
+      {
+        "letter": "B",
+        "text": "Ritonavir"
+      },
+      {
+        "letter": "C",
+        "text": "Efavirenz"
+      },
+      {
+        "letter": "D",
+        "text": "Dolutegravir"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Dolutegravir and Elvitegravir/Cobicistat (INSTIs) cause benign increases in creatinine because they inhibit creatinine secretion.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_072",
+    "question_number": 72,
+    "question": "Secondary prophylaxis (chronic maintenance therapy) for Cytomegalovirus (CMV) retinitis may be discontinued if the CMV lesions are inactive and the patient’s CD4 count has remained above 100 cells/mm³ for at least how long in response to ART?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1 month"
+      },
+      {
+        "letter": "B",
+        "text": "3–6 months"
+      },
+      {
+        "letter": "C",
+        "text": "1 year"
+      },
+      {
+        "letter": "D",
+        "text": "Until viral load is undetectable"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Chronic maintenance therapy for CMV retinitis may be discontinued if the lesions are inactive, and the CD4+ count is greater than 100 cells/mm³ for 3–6 months in response to ART.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_073",
+    "question_number": 73,
+    "question": "Which Rifamycin is substituted for Rifampin when treating active TB in a patient whose ART regimen includes a ritonavir-boosted Protease Inhibitor (PI)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rifapentine"
+      },
+      {
+        "letter": "B",
+        "text": "Rifabutin"
+      },
+      {
+        "letter": "C",
+        "text": "Rifalazil (not in sources)"
+      },
+      {
+        "letter": "D",
+        "text": "Rifametaxime (not in sources)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "PIs should not be administered concurrently with rifampin. Rifabutin can be substituted for rifampin; if the PI is boosted with ritonavir, the rifabutin dose should be decreased to 150 mg every day.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_074",
+    "question_number": 74,
+    "question": "What is the preferred prophylactic regimen for an HIV-infected patient requiring PJP primary prophylaxis (CD4 < 200 cells/mm³) who has a known sulfonamide allergy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trimethoprim/sulfamethoxazole double strength daily (despite allergy)"
+      },
+      {
+        "letter": "B",
+        "text": "Dapsone 100 mg weekly"
+      },
+      {
+        "letter": "C",
+        "text": "Pentamidine 300 mg by nebulization once monthly"
+      },
+      {
+        "letter": "D",
+        "text": "Atovaquone 1500 mg orally once daily"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Trimethoprim/sulfamethoxazole is the preferred agent, but due to a sulfonamide allergy, the preferred alternative prophylactic regimen based on safety, tolerability, and efficacy is Atovaquone 1500 mg once daily.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_075",
+    "question_number": 75,
+    "question": "What is the preferred first-line agent for the treatment of Aspergillosis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "B",
+        "text": "Voriconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Liposomal amphotericin B"
+      },
+      {
+        "letter": "D",
+        "text": "Fluconazole"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Voriconazole is listed as the first therapeutic option for Aspergillosis.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_076",
+    "question_number": 76,
+    "question": "Which medication is currently noted as the preferred first-line oral therapy for nonhospitalized, symptomatic patients diagnosed with COVID-19, as of January 2023?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dexamethasone 6 mg orally daily"
+      },
+      {
+        "letter": "B",
+        "text": "Remdesivir 200 mg once, then 100 mg daily"
+      },
+      {
+        "letter": "C",
+        "text": "Molnupiravir 200 mg orally twice daily"
+      },
+      {
+        "letter": "D",
+        "text": "Ritonavir-boosted nirmatrelvir (Paxlovid)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Ritonavir-boosted nirmatrelvir (Paxlovid) is preferred first-line therapy for symptomatic, nonhospitalized patients with COVID-19 who are not receiving supplemental oxygen, as of January 2023.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_077",
+    "question_number": 77,
+    "question": "A patient is diagnosed with bacterial sinusitis that is considered severe. What is the recommended duration of antibiotic therapy for this patient, assuming they are an adult?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "10–14 days"
+      },
+      {
+        "letter": "B",
+        "text": "5–7 days"
+      },
+      {
+        "letter": "C",
+        "text": "3 days"
+      },
+      {
+        "letter": "D",
+        "text": "21 days"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The therapy duration for acute bacterial sinusitis in adults is 5–7 days. Children require 10–14 days of therapy.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_078",
+    "question_number": 78,
+    "question": "In a hospital unit where the prevalence of MRSA respiratory infections is low (less than 10%), what is the clinical implication of a negative MRSA nasal screen in a patient with suspected VAP?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "The patient must still receive Vancomycin for the first 48 hours empirically."
+      },
+      {
+        "letter": "B",
+        "text": "The MRSA nasal screen is inconclusive and should be repeated immediately."
+      },
+      {
+        "letter": "C",
+        "text": "The negative screen suggests that empiric MRSA antibiotic coverage is unnecessary."
+      },
+      {
+        "letter": "D",
+        "text": "The patient should receive Linezolid, regardless of the nasal screen result."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "In locations where the prevalence of MRSA respiratory infections is low (< 10%), a negative MRSA nasal screen suggests that MRSA antibiotics are unnecessary empirically.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_079",
+    "question_number": 79,
+    "question": "When comparing the symptoms of Influenza, COVID-19, and the Common Cold, which symptom is characteristic of Influenza, typically lasting 3–4 days?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Loss of taste/smell"
+      },
+      {
+        "letter": "B",
+        "text": "Hacking cough"
+      },
+      {
+        "letter": "C",
+        "text": "Sneezing"
+      },
+      {
+        "letter": "D",
+        "text": "High fever (> 101°F [38°C])"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "High temperature (> 101°F [38°C]) of 3–4 days’ duration is a characteristic symptom listed for Influenza.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_080",
+    "question_number": 80,
+    "question": "Which molecular class of β-Lactamases is noted in the sources as currently having no effective inhibitors available?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Class A (Serine β-lactamases, e.g., KPC)"
+      },
+      {
+        "letter": "B",
+        "text": "Class C (Serine β-lactamases, e.g., AmpC)"
+      },
+      {
+        "letter": "C",
+        "text": "Class D (Serine β-lactamases, e.g., OXA family)"
+      },
+      {
+        "letter": "D",
+        "text": "Class B (Metallo β-lactamases, e.g., NDM-1)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Metallo β-lactamases (Molecular Class B), which include the IMP and VIM families (CRE), are listed as having None under the \"Effective Inhibitors\" category.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobial Resistance"
+  },
+  {
+    "id": "inf_081",
+    "question_number": 81,
+    "question": "For an HIV-infected patient receiving ART, a change in HIV RNA (viral load) is considered statistically significant if the change is greater than:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1.0 log (10-fold)"
+      },
+      {
+        "letter": "B",
+        "text": "0.5 log (3-fold)"
+      },
+      {
+        "letter": "C",
+        "text": "0.3 log (2-fold)"
+      },
+      {
+        "letter": "D",
+        "text": "10 copies/mL"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "While on treatment, changes greater than 3-fold (about 0.5 log) in HIV RNA are considered statistically significant.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_082",
+    "question_number": 82,
+    "question": "Which mechanism of antibiotic resistance is characteristic of glycopeptide resistance (e.g., vancomycin resistance) in Enterococcus species?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Decreased uptake (altered porins)"
+      },
+      {
+        "letter": "B",
+        "text": "Enzyme modification and degradation (β-lactamases)"
+      },
+      {
+        "letter": "C",
+        "text": "Increased excretion (efflux pumps)"
+      },
+      {
+        "letter": "D",
+        "text": "Altered target site (e.g., vanA and vanB genes)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Glycopeptides (vancomycin) resistance is caused by an Altered target site (e.g., vanA and vanB genes).",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobial Resistance"
+  },
+  {
+    "id": "inf_083",
+    "question_number": 83,
+    "question": "Which description best characterizes the CSF findings typically associated with Viral Meningitis, differentiating it from Bacterial Meningitis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Glucose less than 50 mg/dL and protein greater than 150 mg/dL."
+      },
+      {
+        "letter": "B",
+        "text": "5–300 WBCs/mm³ (predominantly lymphocytes)."
+      },
+      {
+        "letter": "C",
+        "text": "Lactic acid greater than 35 mg/dL."
+      },
+      {
+        "letter": "D",
+        "text": "Greater than 1000–5000 WBCs/mm³ (predominantly neutrophils)."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Viral Meningitis typically shows 5–300 WBCs/mm³ (predominantly lymphocytes). Options A, C, and D are characteristic of Bacterial Meningitis.",
+    "category": "Infectious Disease",
+    "subcategory": "CNS Infections"
+  },
+  {
+    "id": "inf_084",
+    "question_number": 84,
+    "question": "What is the recommended duration of antibiotic therapy for native valve endocarditis caused by Penicillin-susceptible oral streptococci, using Penicillin G monotherapy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "4 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "6 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "7 days"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The length of therapy for Penicillin-susceptible oral streptococci native valve endocarditis using Penicillin G (PCN G) is 4 weeks.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_085",
+    "question_number": 85,
+    "question": "What is the preferred initial antifungal regimen for a non-neutropenic patient with candidemia (bloodstream Candida infection)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole 400 mg daily"
+      },
+      {
+        "letter": "B",
+        "text": "Voriconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Echinocandin (caspofungin, anidulafungin, or micafungin)"
+      },
+      {
+        "letter": "D",
+        "text": "Amphotericin B deoxycholate"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The preferred initial therapy for candidemia is an Echinocandin (caspofungin, anidulafungin, rezafungin, or micafungin). Fluconazole is only used if the organism is known or suspected to be susceptible.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_086",
+    "question_number": 86,
+    "question": "Which intervention is mandatory to reduce the bone marrow–suppressive effects of pyrimethamine when treating Toxoplasmosis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vitamin B12 (Cyanocobalamin)"
+      },
+      {
+        "letter": "B",
+        "text": "Folinic acid (Leucovorin)"
+      },
+      {
+        "letter": "C",
+        "text": "Folic acid (Folacin)"
+      },
+      {
+        "letter": "D",
+        "text": "Pyridoxine (Vitamin B6)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "When treating toxoplasmosis, folinic acid (leucovorin) (10–25 mg/day) must be added to the regimen (Pyrimethamine plus Sulfadiazine) to reduce bone marrow–suppressive effects of pyrimethamine.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_087",
+    "question_number": 87,
+    "question": "When initiating combination ART in an HIV-infected pregnant woman, which class of antibiotics is generally avoided during the entire pregnancy due to safety concerns?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nucleoside Reverse Transcriptase Inhibitors (NRTIs)"
+      },
+      {
+        "letter": "B",
+        "text": "Integrase Strand Transfer Inhibitors (INSTIs)"
+      },
+      {
+        "letter": "C",
+        "text": "Protease Inhibitors (PIs)"
+      },
+      {
+        "letter": "D",
+        "text": "Tetracyclines"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Although the source context is UTI treatment in pregnancy, it lists Tetracyclines (along with Fluoroquinolones and Aminoglycosides) as antibiotics to avoid during pregnancy. (Note: While ART is used to prevent perinatal transmission, tetracyclines are a general contraindication in pregnancy.)",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_088",
+    "question_number": 88,
+    "question": "Which combination ART agent causes a benign increase in serum creatinine by inhibiting creatinine secretion, but is not considered nephrotoxic?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tenofovir disoproxil fumarate (TDF)"
+      },
+      {
+        "letter": "B",
+        "text": "Zidovudine (ZDV)"
+      },
+      {
+        "letter": "C",
+        "text": "Ritonavir"
+      },
+      {
+        "letter": "D",
+        "text": "Bictegravir"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Bictegravir (as well as Dolutegravir and Elvitegravir/Cobicistat) causes benign increases in creatinine because it inhibits creatinine secretion. TDF is associated with renal toxicity.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_089",
+    "question_number": 89,
+    "question": "What is the primary goal established by the CDC regarding the prevention of perinatal HIV transmission?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ensuring all HIV-infected pregnant women receive Zidovudine."
+      },
+      {
+        "letter": "B",
+        "text": "Decreasing transmissions to less than 1% through suppressive combination ART."
+      },
+      {
+        "letter": "C",
+        "text": "Ensuring the infant receives Zidovudine for at least 6 weeks postpartum."
+      },
+      {
+        "letter": "D",
+        "text": "Initiating ART only if the maternal CD4 count is below 200 cells/mm³."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The goal of the Centers for Disease Control and Prevention is to decrease transmissions to less than 1% through suppressive combination antiretroviral therapy (ART) administered throughout pregnancy.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_090",
+    "question_number": 90,
+    "question": "What is the standard total duration of therapy recommended for pulmonary tuberculosis (TB) in a patient without HIV who has cavitary lesions on a chest x-ray and a positive sputum culture after completing the 2-month intensive phase?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4 months"
+      },
+      {
+        "letter": "B",
+        "text": "6 months"
+      },
+      {
+        "letter": "C",
+        "text": "9 months"
+      },
+      {
+        "letter": "D",
+        "text": "12 months"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "If a patient without HIV has pulmonary TB and the culture is positive after 2 months of TB treatment, the total duration should be extended to 9 months. (The standard duration is 6 months; this extension is triggered by the positive culture after the intensive phase).",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_091",
+    "question_number": 91,
+    "question": "Which of the following is an accepted alternative regimen for the treatment of latent TB infection (LTBI) in a patient who is not infected with HIV?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid monotherapy for 3 months"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin 300 mg daily for 6 months"
+      },
+      {
+        "letter": "C",
+        "text": "Rifampin 600 mg daily for 4 months"
+      },
+      {
+        "letter": "D",
+        "text": "Rifapentine plus isoniazid daily for 6 months"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Recommended dosing regimens for LTBI in non-HIV infected patients include Rifampin 600 mg daily for 4 months.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_092",
+    "question_number": 92,
+    "question": "Which characteristic differentiates Influenza (Flu) from the Common Cold, according to the sources?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gradual onset of symptoms"
+      },
+      {
+        "letter": "B",
+        "text": "Presence of a dry cough that can become severe"
+      },
+      {
+        "letter": "C",
+        "text": "High fever (greater than 101°F [38°C]) lasting 3–4 days"
+      },
+      {
+        "letter": "D",
+        "text": "Occasional headache and slight myalgia"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "High temperature (greater than 101∘F [38∘C]) of 3–4 days’ duration is listed as characteristic of Influenza, while temperature is only occasional in the common cold.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_093",
+    "question_number": 93,
+    "question": "Empiric treatment for hospitalized patients with non-severe Community-Acquired Pneumonia (CAP) should include a β-Lactam (such as Ceftriaxone or Ampicillin/sulbactam) plus which other class of antibiotic?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "A non-respiratory fluoroquinolone (e.g., Ciprofloxacin)"
+      },
+      {
+        "letter": "B",
+        "text": "An aminoglycoside (e.g., Gentamicin)"
+      },
+      {
+        "letter": "C",
+        "text": "A macrolide (or doxycycline)"
+      },
+      {
+        "letter": "D",
+        "text": "An antipseudomonal carbapenem (e.g., Meropenem)"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Empiric treatment of hospitalized patients with non-severe pneumonia includes a β-Lactam (ampicillin/sulbactam, ceftriaxone, or ceftaroline) plus a macrolide (or doxycycline).",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_094",
+    "question_number": 94,
+    "question": "In a hospital unit where the incidence of MRSA respiratory infections is greater than 20%, empiric therapy for Hospital-Acquired Pneumonia (HAP) or Ventilator-Associated Pneumonia (VAP) must include which agent?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ceftazidime"
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin or Linezolid"
+      },
+      {
+        "letter": "C",
+        "text": "Aztreonam"
+      },
+      {
+        "letter": "D",
+        "text": "Ciprofloxacin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "An antibiotic with activity against MRSA should be included if MRSA incidence in the hospital unit is greater than 20%. The options if MRSA activity is necessary are Vancomycin or Linezolid.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_095",
+    "question_number": 95,
+    "question": "What is the recommended duration for the use of Rifampin in the regimen for treating Latent TB Infection (LTBI) in a patient who is not coinfected with HIV?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 months"
+      },
+      {
+        "letter": "B",
+        "text": "3 months"
+      },
+      {
+        "letter": "C",
+        "text": "4 months"
+      },
+      {
+        "letter": "D",
+        "text": "6–9 months"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "For patients who are not infected with HIV, one recommended dosing regimen is Rifampin 600 mg daily for 4 months.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_096",
+    "question_number": 96,
+    "question": "In bacterial meningitis, which of the following cerebrospinal fluid (CSF) lab results is characteristic of the infection?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Protein less than 50 mg/dL"
+      },
+      {
+        "letter": "B",
+        "text": "Glucose greater than 70 mg/dL"
+      },
+      {
+        "letter": "C",
+        "text": "WBC greater than 1000 cells/mm³ (predominantly neutrophils)"
+      },
+      {
+        "letter": "D",
+        "text": "Lactic acid less than 14 mg/dL"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Bacterial meningitis typically results in WBC greater than 1000–5000 cells/mm³ (predominantly neutrophils), protein greater than 150 mg/dL, glucose less than 50 mg/dL, and lactic acid greater than 35 mg/dL.",
+    "category": "Infectious Disease",
+    "subcategory": "CNS Infections"
+  },
+  {
+    "id": "inf_097",
+    "question_number": 97,
+    "question": "Which drug is used for chemoprophylaxis against N. meningitidis in adults who are identified as close contacts of an index case?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin G"
+      },
+      {
+        "letter": "B",
+        "text": "Doxycycline"
+      },
+      {
+        "letter": "C",
+        "text": "Ciprofloxacin 500 mg orally, one dose"
+      },
+      {
+        "letter": "D",
+        "text": "Rifampin 300 mg every 12 hours for four doses"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ciprofloxacin 500 mg orally, one dose, is listed as a chemoprophylaxis option for adults who are close contacts of an N. meningitidis case. (Note: Rifampin dosing for adults is 600 mg every 12 hours, four doses.)",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_098",
+    "question_number": 98,
+    "question": "When treating a brain abscess that originated from trauma or neurosurgery, which combination of antibiotics is suggested for the empiric regimen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Metronidazole plus Ceftriaxone"
+      },
+      {
+        "letter": "B",
+        "text": "Penicillin plus Metronidazole"
+      },
+      {
+        "letter": "C",
+        "text": "Vancomycin plus Cefepime"
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin plus Metronidazole plus Ceftriaxone"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Suggested empiric regimens for a brain abscess secondary to Trauma or Neurosurgery is Vancomycin plus Cefepime.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_099",
+    "question_number": 99,
+    "question": "For a total knee replacement lasting longer than 4 hours, what is the required adjustment to the antibiotic prophylaxis regimen?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Switch from Cefazolin to Vancomycin due to the longer duration."
+      },
+      {
+        "letter": "B",
+        "text": "Increase the initial dose of Cefazolin by 50%."
+      },
+      {
+        "letter": "C",
+        "text": "Redose the antibiotic intraoperatively."
+      },
+      {
+        "letter": "D",
+        "text": "Give antibiotics for 24 hours postoperatively instead of stopping at surgical closure."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Prophylaxis principles require that the antibiotic must be redosed if the surgery lasts longer than 4 hours (or more than two half-lives of the antibiotic).",
+    "category": "Infectious Disease",
+    "subcategory": "Surgical Prophylaxis"
+  },
+  {
+    "id": "inf_100",
+    "question_number": 100,
+    "question": "For necrotizing fasciitis caused by S. pyogenes (Group A Streptococcus), the definitive treatment includes high-dose intravenous penicillin plus which other agent?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Daptomycin"
+      },
+      {
+        "letter": "B",
+        "text": "Clindamycin or linezolid"
+      },
+      {
+        "letter": "C",
+        "text": "Imipenem"
+      },
+      {
+        "letter": "D",
+        "text": "Cefazolin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Streptococcal necrotizing fasciitis treatment is high-dose intravenous penicillin plus clindamycin or linezolid.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_101",
+    "question_number": 101,
+    "question": "What is the recommended duration of therapy for prosthetic valve endocarditis caused by Penicillin-susceptible oral streptococci?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "4 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "6 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "Indefinite suppression"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The length of therapy for prosthetic valve endocarditis caused by Penicillin-susceptible oral streptococci is 6 weeks.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_102",
+    "question_number": 102,
+    "question": "Which opportunistic infection (OI) in an HIV patient with a low CD4 count (less than 50 cells/mm³) requires regular funduscopic examinations rather than primary pharmacological prophylaxis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pneumocystis jiroveci Pneumonia (PJP)"
+      },
+      {
+        "letter": "B",
+        "text": "Mycobacterium avium Complex (MAC)"
+      },
+      {
+        "letter": "C",
+        "text": "Cryptococcosis"
+      },
+      {
+        "letter": "D",
+        "text": "Cytomegalovirus (CMV)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Primary prophylaxis is not recommended for CMV retinitis; instead, in patients with CD4 counts less than 50 cells/mm³, regular funduscopic examinations are recommended.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_103",
+    "question_number": 103,
+    "question": "When treating severe Histoplasmosis, what is the recommended duration for the initial induction phase using Amphotericin B lipid formulation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "3 days"
+      },
+      {
+        "letter": "B",
+        "text": "At least 1–2 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "4 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "12 weeks"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "For moderate to severe Histoplasmosis, the treatment involves Lipid formulation amphotericin B for at least 1–2 weeks followed by Itraconazole.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_104",
+    "question_number": 104,
+    "question": "Which combination ART agent must be avoided in patients with a history of using long-acting cabotegravir (CAB-LA) for pre-exposure prophylaxis (PrEP)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dolutegravir/lamivudine"
+      },
+      {
+        "letter": "B",
+        "text": "Darunavir/ritonavir or darunavir/cobicistat plus tenofovir/emtricitabine"
+      },
+      {
+        "letter": "C",
+        "text": "Bictegravir/tenofovir alafenamide/emtricitabine"
+      },
+      {
+        "letter": "D",
+        "text": "Doravirine/tenofovir disoproxil fumarate/lamivudine"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The PI-based regimen Darunavir/ritonavir or darunavir/cobicistat plus tenofovir/emtricitabine is listed with the caution: \"For people with HIV who do not have a history of using long-acting cabotegravir (CAB-LA) as pre-exposure prophylaxis (PrEP)\".",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_105",
+    "question_number": 105,
+    "question": "What is the recommended treatment duration for uncomplicated cystitis using Trimethoprim/sulfamethoxazole?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1 day"
+      },
+      {
+        "letter": "B",
+        "text": "3 days"
+      },
+      {
+        "letter": "C",
+        "text": "5 days"
+      },
+      {
+        "letter": "D",
+        "text": "7–14 days"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Trimethoprim/sulfamethoxazole (160 mg/800 mg twice daily) is recommended for 3 days for uncomplicated cystitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_106",
+    "question_number": 106,
+    "question": "Which risk factor for postoperative wound infection requires only 102 microorganisms to cause infection, compared to the 105 inoculum needed in a healthy person?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Obesity"
+      },
+      {
+        "letter": "B",
+        "text": "Diabetes"
+      },
+      {
+        "letter": "C",
+        "text": "Presence of foreign body"
+      },
+      {
+        "letter": "D",
+        "text": "Extremes of age"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A healthy person tolerates an inoculum of 105 microorganisms, but in the presence of a foreign body, only 102 are needed to cause infection.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_107",
+    "question_number": 107,
+    "question": "Which molecular class of β-Lactamases, which includes IMP and VIM family enzymes, is currently noted in the sources as having no effective inhibitors available?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Class A (e.g., KPC)"
+      },
+      {
+        "letter": "B",
+        "text": "Class B (Metallo β-lactamases)"
+      },
+      {
+        "letter": "C",
+        "text": "Class C (e.g., AmpC)"
+      },
+      {
+        "letter": "D",
+        "text": "Class D (e.g., OXA family)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Metallo β-lactamases (Molecular Class B), exemplified by the IMP and VIM family, are listed as having None under \"Effective Inhibitors\".",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobial Resistance"
+  },
+  {
+    "id": "inf_108",
+    "question_number": 108,
+    "question": "Which mechanism of resistance against β-Lactam antibiotics is mediated by the expression of the mecA gene in Staphylococcus species?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Enzyme modification and degradation (β-Lactamases)"
+      },
+      {
+        "letter": "B",
+        "text": "Increased excretion (Efflux pumps)"
+      },
+      {
+        "letter": "C",
+        "text": "Decreased uptake (Altered porins)"
+      },
+      {
+        "letter": "D",
+        "text": "Altered target site (altered penicillin-binding proteins [PBPs])"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Resistance to β-Lactams through mechanisms like altered penicillin-binding proteins (PBPs) and the mecA gene is classified as an Altered target site resistance mechanism.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobial Resistance"
+  },
+  {
+    "id": "inf_109",
+    "question_number": 109,
+    "question": "In a patient receiving combination ART, a change in HIV viral load is considered statistically significant if the change is greater than:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1.0 log"
+      },
+      {
+        "letter": "B",
+        "text": "0.5 log"
+      },
+      {
+        "letter": "C",
+        "text": "0.2 log"
+      },
+      {
+        "letter": "D",
+        "text": "20 copies/mL"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "While on treatment, changes greater than 3-fold (about 0.5 log) in HIV RNA are considered statistically significant.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_110",
+    "question_number": 110,
+    "question": "What is the recommended duration of antibiotic therapy for uncomplicated pyelonephritis when treated with Levofloxacin (750 mg orally daily) in an outpatient setting?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "3 days"
+      },
+      {
+        "letter": "B",
+        "text": "5 days"
+      },
+      {
+        "letter": "C",
+        "text": "7 days"
+      },
+      {
+        "letter": "D",
+        "text": "14 days"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Levofloxacin 750 mg orally daily for uncomplicated pyelonephritis is a 5-day duration. Ciprofloxacin requires 7 days, and trimethoprim/sulfamethoxazole requires 14 days.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_111",
+    "question_number": 111,
+    "question": "What is the standard duration of therapy for acute bacterial prostatitis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7 days"
+      },
+      {
+        "letter": "B",
+        "text": "14 days"
+      },
+      {
+        "letter": "C",
+        "text": "2–4 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "6–8 weeks"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Therapy duration for acute bacterial prostatitis is typically 2–4 weeks, which can be extended for an additional 2 weeks if the patient remains symptomatic.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_112",
+    "question_number": 112,
+    "question": "Which condition is a contraindication for the use of Nitrofurantoin in the treatment of uncomplicated cystitis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "History of chronic liver failure"
+      },
+      {
+        "letter": "B",
+        "text": "Creatinine clearance (CrCl) less than 30 mL/minute/1.73 m²"
+      },
+      {
+        "letter": "C",
+        "text": "Pregnancy in the second trimester"
+      },
+      {
+        "letter": "D",
+        "text": "Prior use of a β-Lactam antibiotic"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Nitrofurantoin monohydrate/macrocrystals is noted as ineffective in patients with a CrCl less than 30 mL/minute/1.73 m².",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_113",
+    "question_number": 113,
+    "question": "Which definitive treatment regimen is indicated for S.pneumoniae meningitis when the pathogen exhibits a Penicillin MIC of 2.0 mcg/mL or greater (highly resistant)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin G monotherapy"
+      },
+      {
+        "letter": "B",
+        "text": "Ceftriaxone monotherapy"
+      },
+      {
+        "letter": "C",
+        "text": "Vancomycin plus Ceftriaxone"
+      },
+      {
+        "letter": "D",
+        "text": "Meropenem monotherapy"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "If the Penicillin MIC is 2.0 mcg/mL or greater, the regimen is Vancomycin plus Ceftriaxone.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_114",
+    "question_number": 114,
+    "question": "Which regimen is required for long-term oral suppression following the initial intravenous therapy for a prosthetic knee infection caused by Staphylococcus that is retained?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluoroquinolone monotherapy for 3 months"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin monotherapy for 6 months"
+      },
+      {
+        "letter": "C",
+        "text": "Rifampin plus a fluoroquinolone for 6 months"
+      },
+      {
+        "letter": "D",
+        "text": "Pathogen-specific intravenous therapy for 12 weeks"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "If a prosthetic joint is retained, the oral continuation phase is rifampin plus ciprofloxacin or levofloxacin for 3 months (hip, elbow, shoulder, ankle) or 6 months (retained knee prosthesis).",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_115",
+    "question_number": 115,
+    "question": "In the empiric treatment of a brain abscess secondary to Trauma or Neurosurgery, what is the core antibiotic combination?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin plus Metronidazole"
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin plus Cefepime"
+      },
+      {
+        "letter": "C",
+        "text": "Metronidazole plus Ceftriaxone"
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin plus Ceftriaxone plus Metronidazole"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The suggested empiric regimen for a brain abscess secondary to Trauma or Neurosurgery is Vancomycin plus Cefepime.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_116",
+    "question_number": 116,
+    "question": "What is the required prophylactic dose of Cefazolin for a patient weighing 135 kg undergoing total knee replacement?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1 g"
+      },
+      {
+        "letter": "B",
+        "text": "3 g"
+      },
+      {
+        "letter": "C",
+        "text": "2 g"
+      },
+      {
+        "letter": "D",
+        "text": "4 g"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The appropriate prophylactic dosing for Cefazolin is 2 g, or 3 g for patients weighing 120 kg or more.",
+    "category": "Infectious Disease",
+    "subcategory": "Infectious Disease General"
+  },
+  {
+    "id": "inf_117",
+    "question_number": 117,
+    "question": "For a dental procedure involving gingival tissue in a patient with a previous history of bacterial endocarditis, which oral regimen is recommended for prophylaxis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cephalexin 2 g orally 1 hour before procedure"
+      },
+      {
+        "letter": "B",
+        "text": "Azithromycin 500 mg orally 1 hour before procedure"
+      },
+      {
+        "letter": "C",
+        "text": "Amoxicillin 2 g orally 1 hour before procedure"
+      },
+      {
+        "letter": "D",
+        "text": "Amoxicillin 3 g orally 1 hour before procedure"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Standard general prophylaxis for dental procedures is Amoxicillin 2 g, 1 hour before the procedure.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_118",
+    "question_number": 118,
+    "question": "When treating native valve endocarditis caused by methicillin-sensitive Staphylococcus aureus (MSSA), what is the mandatory length of therapy using Cefazolin?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 weeks"
+      },
+      {
+        "letter": "B",
+        "text": "4 weeks"
+      },
+      {
+        "letter": "C",
+        "text": "6 weeks"
+      },
+      {
+        "letter": "D",
+        "text": "12 weeks"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "For MSSA native valve endocarditis, the length of therapy using Oxacillin, Nafcillin, or Cefazolin is 6 weeks.",
+    "category": "Infectious Disease",
+    "subcategory": "Endocarditis"
+  },
+  {
+    "id": "inf_119",
+    "question_number": 119,
+    "question": "Which agent is the preferred initial therapy for candidemia in a non-neutropenic patient, prior to known species identification or susceptibility testing?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Amphotericin B lipid formulation"
+      },
+      {
+        "letter": "C",
+        "text": "Echinocandin (e.g., Caspofungin or Micafungin)"
+      },
+      {
+        "letter": "D",
+        "text": "Voriconazole"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The preferred initial therapy for candidemia is an Echinocandin (caspofungin, anidulafungin, rezafungin, or micafungin).",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_120",
+    "question_number": 120,
+    "question": "What is the required prophylactic co-treatment when using Pyrimethamine to treat Toxoplasmosis, due to the need to reduce bone marrow suppression?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pyridoxine (Vitamin B6)"
+      },
+      {
+        "letter": "B",
+        "text": "Folic acid (Folacin)"
+      },
+      {
+        "letter": "C",
+        "text": "Folinic acid (Leucovorin)"
+      },
+      {
+        "letter": "D",
+        "text": "Vitamin B12 (Cyanocobalamin)"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "You must Add folinic acid (leucovorin) 10–25 mg/day to reduce bone marrow–suppressive effects of pyrimethamine.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_121",
+    "question_number": 121,
+    "question": "Which is the most appropriate minimum duration of therapy for moderate to severe Histoplasmosis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "7 days of IV therapy"
+      },
+      {
+        "letter": "B",
+        "text": "4 weeks of oral therapy"
+      },
+      {
+        "letter": "C",
+        "text": "1–2 weeks of IV therapy followed by oral therapy for 12 weeks total"
+      },
+      {
+        "letter": "D",
+        "text": "6–9 months of oral therapy"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Moderate to severe illness requires Lipid formulation amphotericin B for at least 1–2 weeks followed by itraconazole to complete 12 weeks of therapy.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_122",
+    "question_number": 122,
+    "question": "Which antiretroviral agent causes a benign increase in serum creatinine by inhibiting creatinine secretion, but is not considered nephrotoxic?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tenofovir disoproxil fumarate (TDF)"
+      },
+      {
+        "letter": "B",
+        "text": "Ritonavir"
+      },
+      {
+        "letter": "C",
+        "text": "Efavirenz"
+      },
+      {
+        "letter": "D",
+        "text": "Dolutegravir"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Dolutegravir (and other INSTIs like Bictegravir and Elvitegravir/Cobicistat) cause benign increases in creatinine because they inhibit creatinine secretion. TDF is associated with renal toxicity.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_123",
+    "question_number": 123,
+    "question": "What is the required adjunct medication for all patients receiving Isoniazid for Tuberculosis (TB) treatment who are at increased risk of neuropathy (e.g., HIV-infected persons, patients with diabetes, or alcoholism)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rifampin"
+      },
+      {
+        "letter": "B",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "C",
+        "text": "Pyridoxine"
+      },
+      {
+        "letter": "D",
+        "text": "Ethambutol"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Pyridoxine should be given to all those receiving isoniazid and at increased risk of neuropathy (e.g., pregnant women, breastfeeding infants, HIV infected persons, patients with diabetes, alcoholism, malnutrition, or chronic renal failure, persons of advanced age).",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_124",
+    "question_number": 124,
+    "question": "Secondary prophylaxis (chronic maintenance therapy) for Mycobacterium avium Complex (MAC) can be discontinued if the patient has completed 12 months of therapy and their CD4 count has remained above:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "50 cells/mm³"
+      },
+      {
+        "letter": "B",
+        "text": "100 cells/mm³"
+      },
+      {
+        "letter": "C",
+        "text": "200 cells/mm³"
+      },
+      {
+        "letter": "D",
+        "text": "500 cells/mm³"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Chronic maintenance therapy for MAC may be discontinued after 12 months of therapy if CD4 count is more than 100 cells/mm³ for 6 months or longer because of potent combination ART",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_125",
+    "question_number": 125,
+    "question": "A 24-year-old pregnant woman presents to the urgent care clinic with fever and urinary frequency and urgency. She is diagnosed with a urinary tract infection (UTI). Based on potential harm to the fetus, which of the following medications should be avoided in treating her UTI?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nitrofurantoin"
+      },
+      {
+        "letter": "B",
+        "text": "Amoxicillin"
+      },
+      {
+        "letter": "C",
+        "text": "Cephalexin"
+      },
+      {
+        "letter": "D",
+        "text": "Doxycycline"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Doxycycline (a tetracycline) should be avoided due to the potential harm to the fetus. Nitrofurantoin, amoxicillin (a penicillin), and cephalexin (a cephalosporin) are generally considered safe.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_126",
+    "question_number": 126,
+    "question": "Which of the following is the primary method of β-lactam resistance with Streptococcus pneumoniae?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Modification of target site"
+      },
+      {
+        "letter": "B",
+        "text": "Decreased drug levels due to changes in permeability"
+      },
+      {
+        "letter": "C",
+        "text": "Decreased drug levels due to an efflux pump"
+      },
+      {
+        "letter": "D",
+        "text": "Enzymatic inactivation"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "S. pneumoniae resistance to β-lactam antibiotics involves alteration in one or more of the major penicillin-binding proteins.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_127",
+    "question_number": 127,
+    "question": "Which of the following agents is considered a narrow-spectrum antibiotic?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ceftriaxone"
+      },
+      {
+        "letter": "B",
+        "text": "Ciprofloxacin"
+      },
+      {
+        "letter": "C",
+        "text": "Isoniazid"
+      },
+      {
+        "letter": "D",
+        "text": "Imipenem"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Isoniazid is only active against Mycobacterium tuberculosis, while ceftriaxone, ciprofloxacin, and imipenem are considered broad spectrum due to their activity against multiple types of bacteria and increased risk for contributing to the development of a superinfection.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_128",
+    "question_number": 128,
+    "question": "Which of the following antibiotics exhibits concentration-dependent killing?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Clindamycin"
+      },
+      {
+        "letter": "B",
+        "text": "Linezolid"
+      },
+      {
+        "letter": "C",
+        "text": "Vancomycin"
+      },
+      {
+        "letter": "D",
+        "text": "Daptomycin"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Clindamycin, linezolid, and vancomycin exhibit time-dependent killing, while daptomycin works best when administered in a fashion that optimizes concentration-dependent killing.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_129",
+    "question_number": 129,
+    "question": "Which of the following antibiotics exhibits a long postantibiotic effect that permits once-daily dosing?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gentamicin"
+      },
+      {
+        "letter": "B",
+        "text": "Penicillin G"
+      },
+      {
+        "letter": "C",
+        "text": "Vancomycin"
+      },
+      {
+        "letter": "D",
+        "text": "Aztreonam"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aminoglycosides, including gentamicin, possess a long postantibiotic effect, especially when given as a high dose every 24 hours. Penicillin G, clindamycin, and vancomycin have a relatively short postantibiotic effect and require dosing that maintains concentrations above the MIC for a longer portion of the dosing interval.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_130",
+    "question_number": 130,
+    "question": "A 58-year-old man with a history of hepatitis C, cirrhosis, and ascites presents with spontaneous bacterial peritonitis. Which of the following antibiotics requires close monitoring and dosing adjustment in this patient given his liver disease?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Penicillin G."
+      },
+      {
+        "letter": "B",
+        "text": "Tobramycin."
+      },
+      {
+        "letter": "C",
+        "text": "Erythromycin."
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Erythromycin is metabolized by the liver and should be used with caution in patients with hepatic impairment. Penicillin G, tobramycin, and vancomycin are primarily eliminated by the kidneys.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_131",
+    "question_number": 131,
+    "question": "JS is a 3-day-old neonate, born at 37 weeks’ gestation, who presents with new onset fever, lethargy, and decreased desire to feed. Based on JS’s age, which of the following antibiotics is considered safe to use in neonates?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chloramphenicol"
+      },
+      {
+        "letter": "B",
+        "text": "Sulfamethoxazole/trimethoprim"
+      },
+      {
+        "letter": "C",
+        "text": "Tetracycline"
+      },
+      {
+        "letter": "D",
+        "text": "Ampicillin"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Chloramphenicol and sulfonamides (sulfamethoxazole) can cause toxic effects in newborns due to poorly developed renal and hepatic elimination processes. Tetracycline can have effects on bone growth and development and should be avoided in newborns and young children. Ampicillin is safe and effective in this population.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_132",
+    "question_number": 132,
+    "question": "When evaluating drug therapy for meningitis, which of the following factors is expected to have the LEAST influence on the penetration and concentration of an antibacterial agent in the cerebrospinal fluid?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lipid solubility of the drug"
+      },
+      {
+        "letter": "B",
+        "text": "Minimum inhibitory concentration of the drug"
+      },
+      {
+        "letter": "C",
+        "text": "Protein binding of the drug"
+      },
+      {
+        "letter": "D",
+        "text": "Molecular weight of the drug"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Although the minimum inhibitory concentration impacts the effectiveness of the drug against a given bacteria, it does not affect the ability of a drug to penetrate into the brain. Lipid solubility, protein binding, and molecular weight all determine the likelihood of a drug to penetrate the blood–brain barrier and concentrate in the brain.",
+    "category": "Infectious Disease",
+    "subcategory": "CNS Infections"
+  },
+  {
+    "id": "inf_133",
+    "question_number": 133,
+    "question": "A 72-year-old male presents with fever, cough, malaise, and shortness of breath. His chest x-ray shows bilateral infiltrates consistent with pneumonia. Bronchial wash cultures reveal Pseudomonas aeruginosa sensitive to cefepime. Which of the following is the best dosing scheme for cefepime based on the drug's time-dependent bactericidal activity?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1 g every 6 hours given over 30 minutes"
+      },
+      {
+        "letter": "B",
+        "text": "2 g every 12 hours given over 3 hours"
+      },
+      {
+        "letter": "C",
+        "text": "4 g every 24 hours given over 30 minutes"
+      },
+      {
+        "letter": "D",
+        "text": "4 g given as continuous infusion over 24 hours"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The clinical efficacy of cefepime is based on the percentage of time that the drug concentration remains above the MIC. A continuous infusion would allow for the greatest amount of time above the MIC compared to intermittent (30 minutes) and prolonged infusions (3 to 4 hours).",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_134",
+    "question_number": 134,
+    "question": "Which of the following adverse drug reactions precludes a patient from being rechallenged with that drug in the future?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Itching/rash from penicillin"
+      },
+      {
+        "letter": "B",
+        "text": "Stevens-Johnson syndrome from sulfamethoxazole–trimethoprim"
+      },
+      {
+        "letter": "C",
+        "text": "Gastrointestinal (GI) upset from clarithromycin"
+      },
+      {
+        "letter": "D",
+        "text": "Clostridium difficile superinfection from moxifloxacin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Stevens-Johnson syndrome is a severe idiosyncratic reaction that can be life threatening, and these patients should never be rechallenged with the offending agent. Itching/rash is a commonly reported reaction in patients receiving penicillins but is not life threatening. A patient may be rechallenged if the benefits outweigh the risk (for example, pregnant patient with syphilis) or the patient could be exposed through a desensitization procedure. GI upset is a common side effect of clarithromycin but is not due to an allergic reaction. Moxifloxacin is a broad-spectrum antibiotic that can inhibit the normal flora of the GI tract, increasing the risk for the development of superinfections like C. difficile. This is not an allergic reaction, and the patient can be rechallenged; however, the patient might be at risk for developing C. difficile infection again.",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_135",
+    "question_number": 135,
+    "question": "A 45-year-old man presented to the hospital 3 days ago with severe cellulitis and a large abscess on his left leg. Incision and drainage were performed on the abscess, and cultures revealed methicillin-resistant Staphylococcus aureus. Which is the most appropriate treatment option for once-daily outpatient intravenous therapy in this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ertapenem"
+      },
+      {
+        "letter": "B",
+        "text": "Ceftaroline"
+      },
+      {
+        "letter": "C",
+        "text": "Daptomycin"
+      },
+      {
+        "letter": "D",
+        "text": "Piperacillin/tazobactam"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Daptomycin is approved for skin and skin structure infections caused by MRSA and is given once daily. A and D are incorrect because they do not cover MRSA. Ceftaroline covers MRSA, but it must be given twice daily.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_136",
+    "question_number": 136,
+    "question": "Which of the following adverse effects is associated with daptomycin?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ototoxicity"
+      },
+      {
+        "letter": "B",
+        "text": "Red man syndrome"
+      },
+      {
+        "letter": "C",
+        "text": "QTc prolongation"
+      },
+      {
+        "letter": "D",
+        "text": "Rhabdomyolysis"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Ototoxicity and red man syndrome are associated with vancomycin. QTc prolongation is associated with telavancin. Myalgias and rhabdomyolysis have been reported with daptomycin therapy and require patient education and monitoring.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_137",
+    "question_number": 137,
+    "question": "A 72-year-old man is admitted to the hospital from a nursing home with severe pneumonia. He was discharged from the hospital 1 week ago after open heart surgery. The patient has no known allergies. Which of the following regimens is most appropriate for empiric coverage of methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa in this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vancomycin + cefepime + ciprofloxacin"
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin + cefazolin + ciprofloxacin"
+      },
+      {
+        "letter": "C",
+        "text": "Telavancin + cefepime + ciprofloxacin"
+      },
+      {
+        "letter": "D",
+        "text": "Daptomycin + cefepime + ciprofloxacin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Vancomycin provides adequate coverage against MRSA, and cefepime and ciprofloxacin provide adequate empiric coverage of Pseudomonas. B is incorrect because cefazolin does not have activity against Pseudomonas. C is incorrect because telavancin should be avoided if possible with drugs that prolong the QTc interval, in this case ciprofloxacin. Daptomycin is inactivated by pulmonary surfactant and should not be used for pneumonia.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_138",
+    "question_number": 138,
+    "question": "A 23-year-old man presents with acute appendicitis that ruptures shortly after admission. He is taken to the operating room for surgery, and postsurgical cultures reveal Escherichia coli and Bacteroides fragilis, susceptibilities pending. Which of the following provides adequate empiric coverage of these two pathogens?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefepime"
+      },
+      {
+        "letter": "B",
+        "text": "Piperacillin/tazobactam"
+      },
+      {
+        "letter": "C",
+        "text": "Aztreonam"
+      },
+      {
+        "letter": "D",
+        "text": "Ceftaroline"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "While all of these agents cover most strains of E. coli, piperacillin/tazobactam is the only drug on this list that provides coverage against Bacteroides species.",
+    "category": "Infectious Disease",
+    "subcategory": "Intra-abdominal and C. difficile Infections"
+  },
+  {
+    "id": "inf_139",
+    "question_number": 139,
+    "question": "A 68-year-old man presents from a nursing home with fever, increased urinary frequency and urgency, and mental status changes. He has a penicillin allergy of anaphylaxis. Which of the following β-lactams is the most appropriate choice for gram-negative coverage of this patient’s urinary tract infection?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefepime"
+      },
+      {
+        "letter": "B",
+        "text": "Ertapenem"
+      },
+      {
+        "letter": "C",
+        "text": "Aztreonam"
+      },
+      {
+        "letter": "D",
+        "text": "Ceftaroline"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Based on the severity of the allergic reaction, aztreonam is the choice of all the β-lactams. Although cross-reactivity with cephalosporins and carbapenems is low, the risk rarely outweighs the benefit in these cases.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_140",
+    "question_number": 140,
+    "question": "A 25-year-old man presents to the urgent care center with a painless sore on his genitals that started 2 weeks ago. He reports unprotected sex with a new partner about a month ago. A blood test confirms the patient has Treponema pallidum. Which is the drug of choice for the treatment of this patient's infection as a single dose?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Benzathine penicillin G"
+      },
+      {
+        "letter": "B",
+        "text": "Ceftriaxone"
+      },
+      {
+        "letter": "C",
+        "text": "Aztreonam"
+      },
+      {
+        "letter": "D",
+        "text": "Vancomycin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "A single treatment with penicillin is curative for primary and secondary syphilis. No antibiotic resistance has been reported, and it remains the drug of choice unless the patient has a severe allergic reaction.",
+    "category": "Infectious Disease",
+    "subcategory": "Sexually Transmitted Infections"
+  },
+  {
+    "id": "inf_141",
+    "question_number": 141,
+    "question": "A 20-year-old woman presents to the emergency room with headache, stiff neck, and fever for 2 days and is diagnosed with meningitis. Which is the best agent for the treatment of meningitis in this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefazolin"
+      },
+      {
+        "letter": "B",
+        "text": "Cefdinir"
+      },
+      {
+        "letter": "C",
+        "text": "Cefotaxime"
+      },
+      {
+        "letter": "D",
+        "text": "Cefuroxime axetil"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Cefotaxime is the only drug on this list with adequate CSF penetration to treat meningitis. Cefdinir and cefuroxime axetil are only available orally, and cefazolin’s CSF penetration and spectrum of coverage against S. pneumoniae are likely inadequate to treat meningitis.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_142",
+    "question_number": 142,
+    "question": "Which of the following cephalosporins has activity against gram-negative anaerobic pathogens like Bacteroides fragilis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cefoxitin"
+      },
+      {
+        "letter": "B",
+        "text": "Cefepime"
+      },
+      {
+        "letter": "C",
+        "text": "Ceftriaxone"
+      },
+      {
+        "letter": "D",
+        "text": "Cefazolin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The cephamycins (cefoxitin and cefotetan) are the only cephalosporins with in vitro activity against anaerobic gram-negative pathogens. Cefepime, ceftriaxone, and cefazolin have no appreciable activity against Bacteroides fragilis.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_143",
+    "question_number": 143,
+    "question": "In which of the following cases would it be appropriate to use telavancin?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "A 29-year-old pregnant woman with ventilator-associated pneumonia"
+      },
+      {
+        "letter": "B",
+        "text": "A 76-year-old man with hospital-acquired pneumonia also receiving amiodarone for atrial fibrillation"
+      },
+      {
+        "letter": "C",
+        "text": "A 36-year-old man with cellulitis and abscess growing MRSA"
+      },
+      {
+        "letter": "D",
+        "text": "A 72-year-old woman with a diabetic foot infection growing MRSA who has moderate renal dysfunction"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A is not a good option due to the potential of telavancin harming the fetus. Option B is not a good choice because the patient is on amiodarone, and telavancin can cause QTc prolongation. Option D is not an appropriate choice because the patient has baseline renal dysfunction and telavancin should be avoided unless benefit outweighs the risk. Option C is the best choice since telavancin is approved for skin and skin structure infections, and the patient has no apparent contraindication.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_144",
+    "question_number": 144,
+    "question": "An 18-year-old woman presents to the urgent care clinic with symptoms of a urinary tract infection. Cultures reveal Enterococcus faecalis that is pan sensitive. Which of the following is an appropriate oral option to treat the urinary tract infection in this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cephalexin"
+      },
+      {
+        "letter": "B",
+        "text": "Vancomycin"
+      },
+      {
+        "letter": "C",
+        "text": "Cefdinir"
+      },
+      {
+        "letter": "D",
+        "text": "Amoxicillin"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Option A and C are incorrect because enterococci are inherently resistant to all cephalosporins. Option B is incorrect because oral vancomycin is not absorbed and would not reach the urinary tract in sufficient quantities to treat a urinary tract infection. Option D is the best choice, as amoxicillin is well absorbed orally and concentrates in the urine.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_145",
+    "question_number": 145,
+    "question": "Which of the following describes the mechanism of action of tetracycline antibiotics?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bind the 30S subunit of the bacterial ribosome, preventing binding of tRNA to the mRNA–ribosome complex."
+      },
+      {
+        "letter": "B",
+        "text": "Bind the 30S ribosomal subunit, interfering with assembly of the functional ribosomal apparatus."
+      },
+      {
+        "letter": "C",
+        "text": "Bind irreversibly to a site on the 50S subunit of the bacterial ribosome, inhibiting translocation steps of protein"
+      },
+      {
+        "letter": "D",
+        "text": "Bind the bacterial 23S ribosomal RNA of the 50S subunit, inhibiting the formation of the 70S initiation complex."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Tetracyclines enter susceptible organisms via passive diffusion and also by an energy- dependent transport protein mechanism unique to the bacterial inner cytoplasmic membrane. The drugs bind reversibly to the 30S subunit of the bacterial ribosome. This action prevents binding of tRNA to the mRNA– ribosome complex, thereby inhibiting bacterial protein synthesis. B is the mechanism for aminoglycosides, C is the mechanism for macrolides, and D is the mechanism for oxazolidinones.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_146",
+    "question_number": 146,
+    "question": "Linezolid would be a good choice for antibiotic treatment in which of the following patient scenarios?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bacteremia caused by Staphylococcus aureus"
+      },
+      {
+        "letter": "B",
+        "text": "Urinary tract infection caused by Escherichia coli"
+      },
+      {
+        "letter": "C",
+        "text": "Pneumonia caused by drug-resistant Streptococcus pneumoniae"
+      },
+      {
+        "letter": "D",
+        "text": "Diabetic foot infection caused by Pseudomonas aeruginosa"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Linezolid does have coverage against resistant S. pneumoniae. It is not an optimal choice for treatment of bacteremia. Linezolid also does not have gram-negative coverage against E. coli and P. aeruginosa.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_147",
+    "question_number": 147,
+    "question": "After 5 days of clindamycin treatment for a skin infection, a patient develops diarrhea (10 watery stools/day), severe abdominal pain, and fever. Which of the following organisms would you be concerned about as the causative pathogen of diarrhea?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Escherichia coli"
+      },
+      {
+        "letter": "B",
+        "text": "Bacteroides fragilis"
+      },
+      {
+        "letter": "C",
+        "text": "Staphylococcus aureus"
+      },
+      {
+        "letter": "D",
+        "text": "Clostridium difficile"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Clindamycin use has been associated with Clostridium difficile–associated diarrhea. This infection should be considered in a patient who presents with diarrhea while on clindamycin.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_148",
+    "question_number": 148,
+    "question": "Which of the following statements accurately describes the difference in spectrum of activity between erythromycin and azithromycin?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Azithromycin has better activity against respiratory pathogens such as Haemophilus influenzae and Moraxella"
+      },
+      {
+        "letter": "B",
+        "text": "Erythromycin has the same activity as azithromycin against gram-positives and gram-negatives."
+      },
+      {
+        "letter": "C",
+        "text": "Azithromycin has better activity against staphylococci and streptococci compared to erythromycin."
+      },
+      {
+        "letter": "D",
+        "text": "Erythromycin has better activity against gram-negatives such as H. influenza."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Erythromycin has better activity against gram-positive organisms, so B and C are incorrect. D is incorrect as azithromycin has better activity against H. influenza.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_149",
+    "question_number": 149,
+    "question": "Which of the following antibiotic agents should not be given to children less than 8 years of age due to its deposition in bone and teeth?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Azithromycin"
+      },
+      {
+        "letter": "B",
+        "text": "Doxycycline"
+      },
+      {
+        "letter": "C",
+        "text": "Linezolid"
+      },
+      {
+        "letter": "D",
+        "text": "Quinupristin/dalfopristin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Tetracyclines are contraindicated in this age group because they are deposited in tissues undergoing calcification, such as teeth and bone, and can stunt growth.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_150",
+    "question_number": 150,
+    "question": "A 77-year-old woman was started on antibiotics for pneumonia treatment. After 3 days of antibiotic therapy, the serum creatinine doubled. Which of the following antibiotics is most likely responsible for this increase in serum creatinine?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Doxycycline"
+      },
+      {
+        "letter": "B",
+        "text": "Clarithromycin"
+      },
+      {
+        "letter": "C",
+        "text": "Tobramycin"
+      },
+      {
+        "letter": "D",
+        "text": "Linezolid"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Aminoglycosides such as tobramycin accumulate in the proximal tubular cells of the kidney and disrupt calcium-mediated transport processes. This results in kidney damage ranging from mild, reversible renal impairment to severe, potentially irreversible acute tubular necrosis. Nephrotoxicity is not commonly associated with tetracyclines, macrolides or oxazolidinones.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_151",
+    "question_number": 151,
+    "question": "A 24-year-old pregnant woman was diagnosed with community-acquired pneumonia and will be managed in the outpatient setting. Which antibiotic is a safe option for this patient to treat her pneumonia?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Azithromycin"
+      },
+      {
+        "letter": "B",
+        "text": "Doxycycline"
+      },
+      {
+        "letter": "C",
+        "text": "Fidaxomicin"
+      },
+      {
+        "letter": "D",
+        "text": "Gentamicin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Azithromycin is available orally and considered safe in pregnancy. Doxycycline should not be used in pregnancy due to its ability to cross the placenta and affect bone and skeletal development in the fetus. Fidaxomicin does not reach therapeutic concentrations in serum or at this site of infection. It concentrates in the gut. Gentamicin crosses the placental barrier and may accumulate in fetal plasma and amniotic fluid. It would also not be used clinically in this outpatient scenario.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_152",
+    "question_number": 152,
+    "question": "Parents of a 1-month-old baby are told their child has developed “gray baby syndrome. ” Which of the following antibiotics did the baby likely receive?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tobramycin"
+      },
+      {
+        "letter": "B",
+        "text": "Linezolid"
+      },
+      {
+        "letter": "C",
+        "text": "Erythromycin"
+      },
+      {
+        "letter": "D",
+        "text": "Chloramphenicol"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Gray baby syndrome is an adverse effect caused by chloramphenicol in neonates due to their underdeveloped renal function and low capacity to glucuronidate the antibiotic. The other agents do not undergo this glucuronidation.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_153",
+    "question_number": 153,
+    "question": "Aminoglycosides are commonly used for their concentration-dependent bactericidal activity against which group of organisms?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gram-positive aerobes"
+      },
+      {
+        "letter": "B",
+        "text": "Gram-negative aerobes"
+      },
+      {
+        "letter": "C",
+        "text": "Gram-positive anaerobes"
+      },
+      {
+        "letter": "D",
+        "text": "Gram-negative anaerobes"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Although aminoglycosides (such as gentamicin) are sometimes used synergistically against gram-positive aerobes, this is not their most common use. They are typically used for their activity against gram- negative aerobes. Aminoglycosides do not have good anaerobic activity.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_154",
+    "question_number": 154,
+    "question": "A 32-year-old man presents to an outpatient clinic with a 5-day history of productive cough, purulent sputum, and shortness of breath. He is diagnosed with community-acquired pneumonia (CAP). It is noted that this patient has a severe ampicillin allergy (anaphylaxis). Which would be an acceptable treatment for this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Levofloxacin"
+      },
+      {
+        "letter": "B",
+        "text": "Ciprofloxacin"
+      },
+      {
+        "letter": "C",
+        "text": "Penicillin VK"
+      },
+      {
+        "letter": "D",
+        "text": "Nitrofurantoin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Streptococcus pneumoniae is a common cause of CAP, and the respiratory fluoroquinolones levofloxacin and moxifloxacin provide good coverage. Ciprofloxacin does not cover S. pneumoniae well and is a poor choice for treatment of CAP. Penicillin would be a poor choice due to allergy. Nitrofurantoin has no clinical utility for respiratory tract infections.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_155",
+    "question_number": 155,
+    "question": "A 22-year-old woman presents with a 2-day history of dysuria with increased urinary frequency and urgency. A urine culture and urinalysis are done. She is diagnosed with a urinary tract infection caused by E. coli. Which agent should be avoided in the treatment of her UTI?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Levofloxacin"
+      },
+      {
+        "letter": "B",
+        "text": "Cotrimoxazole"
+      },
+      {
+        "letter": "C",
+        "text": "Moxifloxacin"
+      },
+      {
+        "letter": "D",
+        "text": "Nitrofurantoin"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Moxifloxacin does not concentrate in the urine and would be ineffective for treatment of a UTI. All other answers are viable alternatives, and the resistance profile for the E. coli can be utilized to direct therapy.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_156",
+    "question_number": 156,
+    "question": "Which drug is correctly matched with the appropriate adverse effect?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Levofloxacin—hyperkalemia"
+      },
+      {
+        "letter": "B",
+        "text": "Nitrofurantoin—pulmonary fibrosis"
+      },
+      {
+        "letter": "C",
+        "text": "Cotrimoxazole—hepatic encephalopathy"
+      },
+      {
+        "letter": "D",
+        "text": "Methenamine—nystagmus"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hyperkalemia may be caused by cotrimoxazole, not fluoroquinolones. Hepatic encephalopathy may be related to therapy with methenamine in patients with hepatic insufficiency. Nystagmus is not associated with methenamine therapy.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_157",
+    "question_number": 157,
+    "question": "Cotrimoxazole provides activity against which organism?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "MRSA"
+      },
+      {
+        "letter": "B",
+        "text": "Pseudomonas aeruginosa"
+      },
+      {
+        "letter": "C",
+        "text": "Anaerobes"
+      },
+      {
+        "letter": "D",
+        "text": "Mycoplasma"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Cotrimoxazole is effective against MRSA. It does not have activity against Pseudomonas, anaerobes, or Mycoplasma.",
+    "category": "Infectious Disease",
+    "subcategory": "Antimicrobials"
+  },
+  {
+    "id": "inf_158",
+    "question_number": 158,
+    "question": "A 55-year-old man presents to primary care clinic with an erythematous and tender abscess on his left thigh. He has a history of MRSA skin infections. Which is an appropriate antibiotic for empiric treatment?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ciprofloxacin"
+      },
+      {
+        "letter": "B",
+        "text": "Cotrimoxazole"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrimethamine"
+      },
+      {
+        "letter": "D",
+        "text": "Cephalexin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cotrimoxazole is the only agent with reliable activity against MRSA. Ciprofloxacin does have some minor activity, but resistance has readily increased and it is no longer a valid recommendation. The other agents do not have activity against MRSA.",
+    "category": "Infectious Disease",
+    "subcategory": "Skin and Soft Tissue Infections"
+  },
+  {
+    "id": "inf_159",
+    "question_number": 159,
+    "question": "Which is a common adverse effect of cotrimoxazole?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hyperkalemia"
+      },
+      {
+        "letter": "B",
+        "text": "Pulmonary fibrosis"
+      },
+      {
+        "letter": "C",
+        "text": "Tendon rupture"
+      },
+      {
+        "letter": "D",
+        "text": "Blood glucose disturbances"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Trimethoprim acts as a potassium-sparing agent, resulting in an increase in serum potassium concentrations. Pulmonary fibrosis is an adverse effect of nitrofurantoin. Tendon rupture and blood glucose",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_160",
+    "question_number": 160,
+    "question": "A 21-year-old marathon runner reports to the clinic with acute Achilles tendon rupture. The nurse noted that the patient recently took an antibiotic for community-acquired pneumonia. Which antibiotic may have contributed to tendon rupture?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amoxicillin/clavulanate"
+      },
+      {
+        "letter": "B",
+        "text": "Cefdinir"
+      },
+      {
+        "letter": "C",
+        "text": "Levofloxacin"
+      },
+      {
+        "letter": "D",
+        "text": "Minocycline"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Levofloxacin is associated with tendon ruptures and tendinopathy. The other agents are not associated with this adverse effect.",
+    "category": "Infectious Disease",
+    "subcategory": "Respiratory Infections"
+  },
+  {
+    "id": "inf_161",
+    "question_number": 161,
+    "question": "A 70-year-old woman with acute cystitis presents to the Family Medicine clinic for assessment. She has a past medical history of hypertension and chronic kidney disease. The team recommends initiation of nitrofurantoin for cystitis. After reviewing her antimicrobial therapy, which actions should be taken prior to clinic discharge?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Continue current therapy and counsel on gastrointestinal effects of nitrofurantoin."
+      },
+      {
+        "letter": "B",
+        "text": "Change nitrofurantoin to alternative agent due to chronic kidney disease."
+      },
+      {
+        "letter": "C",
+        "text": "Reduce nitrofurantoin dose due to impaired renal function."
+      },
+      {
+        "letter": "D",
+        "text": "Counsel patient regarding neuropathy associated with short-term therapy."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The key issue with the antibiotic recommendation is that nitrofurantoin should not be administered in patients with poor kidney function. Adjusting the dose and continuing the current regimen are not acceptable modifications. Neuropathy is more common with therapy greater than 1 month.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_162",
+    "question_number": 162,
+    "question": "Which recommendation should be provided to avoid phototoxicity associated with fluoroquinolone therapy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Use sunscreen and avoid excessive exposure to UV light."
+      },
+      {
+        "letter": "B",
+        "text": "Take the medication at night to avoid high drug concentrations during the day."
+      },
+      {
+        "letter": "C",
+        "text": "Take with food."
+      },
+      {
+        "letter": "D",
+        "text": "Drink with 1 L of water per day to minimize drug buildup in skin tissue."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Patients taking a fluoroquinolone should apply sunscreen and take precautions to minimize risk of phototoxicity. Adjusting the timing of the dose or taking with food or additional water does not change the risk of an event.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_163",
+    "question_number": 163,
+    "question": "What is the main benefit for prescribing methenamine for treatment of a urinary tract infection?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Safe to use in patients with hepatic failure."
+      },
+      {
+        "letter": "B",
+        "text": "Available in intravenous and oral formulations."
+      },
+      {
+        "letter": "C",
+        "text": "Broad spectrum of activity."
+      },
+      {
+        "letter": "D",
+        "text": "Minimal development of resistance."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Methenamine does not select for resistance. Due to its conversion to formaldehyde, this compound is the least likely compound to select for resistant isolates. Methenamine should be avoided in patients with hepatic failure. This agent is only available as an oral formulation, and it has a narrow spectrum of activity.",
+    "category": "Infectious Disease",
+    "subcategory": "Urinary Tract Infections"
+  },
+  {
+    "id": "inf_164",
+    "question_number": 164,
+    "question": "A 22-year-old female intravenous drug user was admitted to the hospital with a 4-week history of cough and fever. A chest radiograph showed left upper lobe cavitary infiltrate. Cultures of sputum yielded M. tuberculosis susceptible to all antimycobacterial drugs. The patient received self-administered isoniazid, rifampin, pyrazinamide, and ethambutol. Two weeks following initiation of therapy, the patient is concerned that her urine is a “funny-looking reddish color. ” Which drug is the most likely cause?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "D",
+        "text": "Ethambutol"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Rifampin (as well as rifabutin and rifapentine) and its metabolites may color urine, feces, saliva, sputum, sweat, and tears a bright red-orange. Patients should be counseled that this is an adverse effect which is not harmful, but can stain clothes and contact lenses.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_165",
+    "question_number": 165,
+    "question": "A 32-year-old man has been on standard four-drug therapy for active pulmonary tuberculosis for the past 2 months. He has no other comorbid conditions. At his regular clinic visit, he complains of a “pins and needles” sensation in his feet. Which drug is most likely causing this?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "D",
+        "text": "Ethambutol"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Standard four-drug therapy for active pulmonary tuberculosis includes isoniazid. Isoniazid can cause peripheral neuropathy with symptoms including paresthesias, such as “pins and needles” and numbness.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_166",
+    "question_number": 166,
+    "question": "A 32-year-old man who takes standard four-drug therapy for active pulmonary tuberculosis complains about a “pins and needles” feeling in his feet. He is diagnosed with peripheral neuropathy. Which vitamin should have been included in the regimen for this patient to reduce the risk of neuropathy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Niacin"
+      },
+      {
+        "letter": "B",
+        "text": "Pyridoxine"
+      },
+      {
+        "letter": "C",
+        "text": "Thiamine"
+      },
+      {
+        "letter": "D",
+        "text": "Ascorbic acid"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Concurrent administration of pyridoxine (vitamin B6) prevents the neuropathic actions of isoniazid. The relative deficiency of pyridoxine appears to be due to the interference of isoniazid with its activation and enhancement of the excretion of pyridoxine.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_167",
+    "question_number": 167,
+    "question": "A 23-year-old man was started on standard four-drug antimycobacterial therapy for treatment of active TB. He has epilepsy, which is controlled with carbamazepine. He has had no seizures in 5 years; however, upon return to clinic at 1 month, he reports having two seizures since his last visit. Which drug may be the reason his carbamazepine is less effective?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "D",
+        "text": "Ethambutol"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Rifampin is a potent inducer of cytochrome P450–dependent drug-metabolizing enzymes and may reduce the concentration of carbamazepine. None of the other drugs listed induce cytochrome P450 enzymes.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_168",
+    "question_number": 168,
+    "question": "A 26-year-old female HIV patient was recently diagnosed with active tuberculosis. Currently, she is on a stable HIV regimen consisting of two protease inhibitors and two nucleoside reverse transcriptase inhibitors. Which is the most appropriate regimen for treatment of her tuberculosis?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rifampin + isoniazid + pyrazinamide + ethambutol"
+      },
+      {
+        "letter": "B",
+        "text": "Rifabutin + isoniazid + pyrazinamide + ethambutol"
+      },
+      {
+        "letter": "C",
+        "text": "Rifapentine + isoniazid + pyrazinamide + ethambutol"
+      },
+      {
+        "letter": "D",
+        "text": "Rifampin + moxifloxacin + pyrazinamide + ethambutol"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Rifabutin is recommended in place of rifampin in patients coinfected with HIV, since it is a less potent inducer of CYP enzymes than rifampin. However, rifabutin is a CYP3A4 substrate and “bidirectional” interactions may result. That is, other medications, such as the protease inhibitors, may affect the concentration of rifabutin, requiring dose adjustment of rifabutin or use of alternative HIV agents.",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_169",
+    "question_number": 169,
+    "question": "A 28-year-old man with MDR-TB is receiving the following medications for treatment: pyrazinamide, ethionamide, moxifloxacin, streptomycin, and para-aminosalicylic acid. Which drug in his regimen requires monitoring for QT prolongation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "B",
+        "text": "Ethionamide"
+      },
+      {
+        "letter": "C",
+        "text": "Moxifloxacin"
+      },
+      {
+        "letter": "D",
+        "text": "Streptomycin"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "While rare, prolongation of the QT interval is associated with the fluoroquinolones. QT interval prolongation is due to the blocking of voltage-gated potassium channels. Of the available quinolones, moxifloxacin has the greatest risk. The risk may be minimized by avoiding coadministration of other medications, which may prolong the QT interval. The other agents are not associated with QT prolongation.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_170",
+    "question_number": 170,
+    "question": "A 46-year-old male patient with active tuberculosis is to be initiated on the four-drug regimen of isoniazid, rifampin, pyrazinamide, and ethambutol. The patient reports no other conditions except gout. Which pair of antituberculosis drugs has the potential to worsen his gout?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rifampin and isoniazid"
+      },
+      {
+        "letter": "B",
+        "text": "Ethambutol and pyrazinamide"
+      },
+      {
+        "letter": "C",
+        "text": "Rifampin and ethambutol"
+      },
+      {
+        "letter": "D",
+        "text": "Isoniazid and ethambutol"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ethambutol and especially pyrazinamide both may increase uric acid concentrations and have the potential to precipitate gouty attacks. Pyrazinamide- and ethambutol-induced hyperuricemia may be controlled by use of antigout medications, such as xanthine oxidase inhibitors. Symptoms of gout must be monitored closely.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_171",
+    "question_number": 171,
+    "question": "A 24-year-old man returns to the clinic 1 month after starting treatment for tuberculosis. He is receiving isoniazid, rifampin, pyrazinamide, and ethambutol. He states that he feels fine, but now is having difficulty reading and feels he may need to get glasses. Which drug may be causing his decline in vision?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Isoniazid"
+      },
+      {
+        "letter": "B",
+        "text": "Rifampin"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "D",
+        "text": "Ethambutol"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Optic neuritis, exhibited as a decrease in visual acuity or loss of color discrimination, is the most important side effect associated with ethambutol. Visual disturbances generally are dose related and more common in patients with reduced renal function. They are reversible (weeks to months) if ethambutol is discontinued promptly.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_172",
+    "question_number": 172,
+    "question": "A 36-year-old woman with multidrug-resistant tuberculosis is being treated with the following agents: streptomycin, cycloserine, pyrazinamide, ethionamide, and p-aminosalicylic acid. Her physician recently noticed that she appears confused and anxious, and has a slight tremor. Which drug is most likely contributing to her current state?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Streptomycin"
+      },
+      {
+        "letter": "B",
+        "text": "Cycloserine"
+      },
+      {
+        "letter": "C",
+        "text": "Pyrazinamide"
+      },
+      {
+        "letter": "D",
+        "text": "Ethionamide"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cycloserine easily penetrates the CNS and may cause adverse effects involving the nervous system, including psychoses, drowsiness, tremor, paresthesia, aggression, and suicidal ideation, among others. Patients should be monitored continually for these signs and symptoms.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_173",
+    "question_number": 173,
+    "question": "Which is correct regarding clofazimine in the treatment of leprosy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Clofazimine should not be used in patients with a deficiency in glucose-6-phosphate dehydrogenase (G6PD)."
+      },
+      {
+        "letter": "B",
+        "text": "Peripheral neuropathy is one of the most common adverse effects seen with the drug."
+      },
+      {
+        "letter": "C",
+        "text": "Clofazimine may cause skin discoloration over time."
+      },
+      {
+        "letter": "D",
+        "text": "The risk of erythema nodosum leprosum is increased in patients given clofazimine."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Clofazimine is a phenazine dye and causes bronzing (the skin pigment color will change color, from pink to brownish-black), especially in fair-skinned patients. This occurs in a majority of patients, and generally is not considered harmful but may take several months to years to fade after discontinuing the medication.",
+    "category": "Infectious Disease",
+    "subcategory": "Tuberculosis"
+  },
+  {
+    "id": "inf_174",
+    "question_number": 174,
+    "question": "Which antifungal agent is MOST likely to cause renal insufficiency?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Amphotericin B"
+      },
+      {
+        "letter": "C",
+        "text": "Itraconazole"
+      },
+      {
+        "letter": "D",
+        "text": "Posaconazole"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Amphotericin B is the best choice since nephrotoxicity is commonly associated with this medication. Although the dose of fluconazole must be adjusted for renal insufficiency, it is not associated with causing nephrotoxicity. Itraconazole and posaconazole are metabolized by the liver and are not associated with nephrotoxicity.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_175",
+    "question_number": 175,
+    "question": "A 55-year-old woman presents to the hospital with shortness of breath, fever, and malaise. She has a history of breast cancer and is receiving chemotherapy. Her chest x-ray shows pneumonia, and respiratory cultures are positive for Aspergillus fumigatus. Which is the MOST appropriate choice for treatment?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Voriconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Fluconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Flucytosine"
+      },
+      {
+        "letter": "D",
+        "text": "Ketoconazole"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Voriconazole is the drug of choice for aspergillosis. Studies have found it to be superior to other regimens including amphotericin B. Fluconazole, flucytosine, and ketoconazole do not have reliable in vitro activity and are therefore not recommended.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_176",
+    "question_number": 176,
+    "question": "Which antifungal agent should be avoided in patients with evidence of ventricular dysfunction?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "B",
+        "text": "Itraconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Terbinafine"
+      },
+      {
+        "letter": "D",
+        "text": "Posaconazole"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "There is a black box warning that warns against the use of itraconazole in patients with evidence of ventricular dysfunction, including patients with heart failure.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_177",
+    "question_number": 177,
+    "question": "A 56-year-old woman with diabetes complains of thickening of the nail of the right big toe and a change in color (yellow). The podiatrist diagnoses the patient with onychomycosis of the toenails. Which is the most appropriate choice for treating this infection?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Terbinafine"
+      },
+      {
+        "letter": "B",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "C",
+        "text": "Itraconazole"
+      },
+      {
+        "letter": "D",
+        "text": "Griseofulvin"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Terbinafine is better tolerated, requires a shorter duration of therapy, and is more effective than either itraconazole or griseofulvin. Micafungin is not active for this type of infection.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_178",
+    "question_number": 178,
+    "question": "A 44-year-old man presents to clinic with fevers and chills, headaches, and shortness of breath. He reports that he was exploring caves about 5 weeks ago. He is diagnosed with mild/moderate acute pulmonary histoplasmosis. Which is the most appropriate choice for treating this infection?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "B",
+        "text": "Itraconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Terbinafine"
+      },
+      {
+        "letter": "D",
+        "text": "Griseofulvin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Itraconazole is the treatment of choice in patients with mild/moderate acute pulmonary histoplasmosis who have had symptoms for more than 1 month. Micafungin, terbinafine, and griseofulvin are not active for this type of infection.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_179",
+    "question_number": 179,
+    "question": "A 32-year-old HIV-positive woman is admitted to the hospital with severe confusion and dizziness. She has been nonadherent with her HIV medications for several months. She is diagnosed with meningitis caused by Cryptococcus neoformans. Which is the most appropriate choice for treating the infection in this patient?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Anidulafungin alone"
+      },
+      {
+        "letter": "B",
+        "text": "Amphotericin B plus flucytosine"
+      },
+      {
+        "letter": "C",
+        "text": "Flucytosine alone"
+      },
+      {
+        "letter": "D",
+        "text": "Isavuconazole plus anidulafungin"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The treatment of choice for initial therapy for cryptococcal meningitis is the combination of",
+    "category": "Infectious Disease",
+    "subcategory": "HIV/AIDS"
+  },
+  {
+    "id": "inf_180",
+    "question_number": 180,
+    "question": "A 22-year-old woman reports a cottage cheese–like vaginal discharge and slight dysuria for 1 week. The patient is diagnosed with vulvovaginal candidiasis. She requests as short a course of treatment as possible due to her busy schedule. Which antifungal is the best choice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oral fluconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Topical miconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Oral terbinafine"
+      },
+      {
+        "letter": "D",
+        "text": "Topical efinaconazole"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Oral fluconazole can be given as a one-time dose for vulvovaginal candidiasis. Topical miconazole requires multiple days of therapy. Terbinafine and efinaconazole are not used clinically for vulvovaginal candidiasis.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_181",
+    "question_number": 181,
+    "question": "Which drug is relatively free of drug–drug interactions?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Voriconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Itraconazole"
+      },
+      {
+        "letter": "C",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "D",
+        "text": "Terbinafine"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The echinocandins (including micafungin) are not metabolized by the CYP450 enzyme system, so they have very few drug–drug interactions. Voriconazole, itraconazole, and terbinafine are all metabolized by the CYP450 enzyme system, so they have significant drug–drug interactions.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_182",
+    "question_number": 182,
+    "question": "Which drug works by creating pores/channels in the fungal cell membrane?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fluconazole"
+      },
+      {
+        "letter": "B",
+        "text": "Anidulafungin"
+      },
+      {
+        "letter": "C",
+        "text": "Amphotericin B"
+      },
+      {
+        "letter": "D",
+        "text": "Flucytosine"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Amphotericin B creates pores/channels in the fungal cell membrane. Fluconazole works by inhibiting the conversion of lanosterol to ergosterol. Anidulafungin inhibits the synthesis of β-D-glucan. Flucytosine disrupts nucleic acid and protein synthesis.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  },
+  {
+    "id": "inf_183",
+    "question_number": 183,
+    "question": "Which drug requires a loading dose?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Caspofungin"
+      },
+      {
+        "letter": "B",
+        "text": "Micafungin"
+      },
+      {
+        "letter": "C",
+        "text": "Liposomal amphotericin B"
+      },
+      {
+        "letter": "D",
+        "text": "Tavaborole"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Caspofungin is the only drug listed that requires a loading dose before starting the maintenance dosing.",
+    "category": "Infectious Disease",
+    "subcategory": "Fungal Infections"
+  }
+]

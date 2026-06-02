@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Capacitor native builds (generated, not needed in repo for cloud builds)
+# Note: We DO commit ios/ and android/ because Codemagic needs them
