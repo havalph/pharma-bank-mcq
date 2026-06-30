@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:git": "git push origin main",
+    "deploy:cf": "npx --yes wrangler@latest pages deploy www --project-name=pharmabank --branch=main --commit-dirty=true",
+    "deploy": "npm run deploy:git && npm run deploy:cf"
   },
   "keywords": [],
   "author": "",
