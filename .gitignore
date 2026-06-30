@@ -13,5 +13,8 @@ Thumbs.db
 *.iml
 .vscode/
 
+# Local Claude Code preview helpers
+.claude/
+
 # Capacitor native builds (generated, not needed in repo for cloud builds)
 # Note: We DO commit ios/ and android/ because Codemagic needs them
